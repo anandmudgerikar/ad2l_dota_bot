@@ -20,5 +20,10 @@ league_ids_stratz = {
     "AD2L Season 38": 15318,
 }
 
+MAXMATCHES = 100
+MINMATCHES = 30
+MAXK=60
+MINK=10
+
 #not including minis
 #"AD2L Spring Tournament 2024": 16531,

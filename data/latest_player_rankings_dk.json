@@ -1,0 +1,6390 @@
+[
+    {
+        "player_name": "Dops32",
+        "mmr": 8195.2,
+        "player_teams": [
+            "WAKANDA MADE IN CHYNA",
+            "KnockKnock"
+        ],
+        "matches": 26,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.26
+    },
+    {
+        "player_name": "kalnoky",
+        "mmr": 8054.56,
+        "player_teams": [
+            "Season 40 Champs"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "lemonade",
+        "mmr": 8047.85,
+        "player_teams": [
+            "Spice Boys",
+            "#Packwatch"
+        ],
+        "matches": 25,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.25
+    },
+    {
+        "player_name": "mirth",
+        "mmr": 8036.32,
+        "player_teams": [
+            "Toxic Tacos"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "bored of hermes",
+        "mmr": 8026.56,
+        "player_teams": [
+            "Toxic Tacos"
+        ],
+        "matches": 44,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.44
+    },
+    {
+        "player_name": "tint",
+        "mmr": 8024.17,
+        "player_teams": [
+            "Toxic Tacos"
+        ],
+        "matches": 42,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.42
+    },
+    {
+        "player_name": "\uff2b\uff0d\uff33\uff34\uff29\uff27\uff33",
+        "mmr": 8017.51,
+        "player_teams": [
+            "Season 40 Champs",
+            "Balerion All-Blacks"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "Hex",
+        "mmr": 8013.15,
+        "player_teams": [
+            "Nigma Rebellion",
+            "KnockKnock",
+            "Season 42 Champs",
+            "Rektal Damage",
+            "Season 40 Champs"
+        ],
+        "matches": 113,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "imma do her proud",
+        "mmr": 8010.72,
+        "player_teams": [
+            "Waist Of Time",
+            "The Whimsical Afrasians",
+            "Brit I'm a Dog, Woof! Brrr",
+            "Sounding Club",
+            "Season 42 Champs",
+            "Does This Game have Fall Damage?",
+            "Golf Tuesday?"
+        ],
+        "matches": 71,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.71
+    },
+    {
+        "player_name": "stanny",
+        "mmr": 8009.25,
+        "player_teams": [
+            "Nigma Rebellion",
+            "Balerion All-Blacks",
+            "Season 42 Champs",
+            "WAKANDA MADE IN CHYNA",
+            "Rektal Damage",
+            "Season 40 Champs"
+        ],
+        "matches": 117,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "MxGuire",
+        "mmr": 8007.29,
+        "player_teams": [
+            "Toxic Tacos"
+        ],
+        "matches": 42,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.42
+    },
+    {
+        "player_name": "Artorius",
+        "mmr": 7997.94,
+        "player_teams": [
+            "Toxic Tacos"
+        ],
+        "matches": 40,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.4
+    },
+    {
+        "player_name": "BRAE",
+        "mmr": 7986.95,
+        "player_teams": [
+            "#Packwatch"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "nkf",
+        "mmr": 7973.33,
+        "player_teams": [
+            "#Packwatch"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "Bungus",
+        "mmr": 7972.34,
+        "player_teams": [
+            "WAKANDA MADE IN CHYNA",
+            "Waist Of Time",
+            "1-800-QQ",
+            "Cinco De Mayo"
+        ],
+        "matches": 36,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.36
+    },
+    {
+        "player_name": "TURTLEKING!",
+        "mmr": 7969.58,
+        "player_teams": [
+            "Toxic Tacos"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Legao",
+        "mmr": 7964.69,
+        "player_teams": [
+            "Spice Boys",
+            "#Packwatch"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "Billy Smoocher",
+        "mmr": 7957.47,
+        "player_teams": [
+            "Waist Of Time",
+            "Cinco De Mayo"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Jgillett10",
+        "mmr": 7956.04,
+        "player_teams": [
+            "Nigma Rebellion",
+            "Balerion All-Blacks",
+            "Giga Obese Ovarian Navigators",
+            "Season 42 Champs",
+            "WAKANDA MADE IN CHYNA",
+            "dXo-Heroic - Mantle of Midas"
+        ],
+        "matches": 81,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.81
+    },
+    {
+        "player_name": "SHIVER ME TIMBERS",
+        "mmr": 7953.89,
+        "player_teams": [
+            "Nigma Rebellion",
+            "KnockKnock",
+            "Season 40 Champs"
+        ],
+        "matches": 44,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.44
+    },
+    {
+        "player_name": "Tree",
+        "mmr": 7952.23,
+        "player_teams": [
+            "Want Steep Sets?",
+            "Ens\u014d",
+            "Bubble Team"
+        ],
+        "matches": 69,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.69
+    },
+    {
+        "player_name": "Jidnahn \u2764\ufe0f \u97ff\u3051!",
+        "mmr": 7950.32,
+        "player_teams": [
+            "#1 Yami Glazers"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Yami116",
+        "mmr": 7944.61,
+        "player_teams": [
+            "#1 Yami Glazers"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Mode Dosiia",
+        "mmr": 7938.23,
+        "player_teams": [
+            "Fruits",
+            "The Whimsical Afrasians",
+            "Waist Of Time",
+            "Sounding Club"
+        ],
+        "matches": 31,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.31
+    },
+    {
+        "player_name": "Andizzle",
+        "mmr": 7935.68,
+        "player_teams": [
+            "Nigma Rebellion",
+            "Season 42 Champs",
+            "Team Mochi",
+            "Soy Sauce: Revolution",
+            "WeLostThisBros",
+            "Season 40 Champs"
+        ],
+        "matches": 106,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "K7",
+        "mmr": 7934.48,
+        "player_teams": [
+            "Nigma Rebellion",
+            "Balerion All-Blacks",
+            "Season 42 Champs",
+            "Rektal Damage",
+            "Season 40 Champs"
+        ],
+        "matches": 91,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.91
+    },
+    {
+        "player_name": "involuntary celibate",
+        "mmr": 7931.94,
+        "player_teams": [
+            "Empacadores de Soriana"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "ZYC",
+        "mmr": 7926.28,
+        "player_teams": [
+            "Spice Boys",
+            "dXo-Heroic - Mantle of Midas"
+        ],
+        "matches": 31,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.31
+    },
+    {
+        "player_name": "OFF !!!",
+        "mmr": 7921.41,
+        "player_teams": [
+            "KnockKnock",
+            "Giga Obese Ovarian Navigators",
+            "1-800-QQ"
+        ],
+        "matches": 51,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.51
+    },
+    {
+        "player_name": "Yawlo",
+        "mmr": 7919.57,
+        "player_teams": [
+            "Empacadores de Soriana"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "MasterZ34",
+        "mmr": 7917.51,
+        "player_teams": [
+            "Want Steep Sets?"
+        ],
+        "matches": 41,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.41
+    },
+    {
+        "player_name": "nojiit",
+        "mmr": 7914.68,
+        "player_teams": [
+            "WoT's Sounding Club",
+            "Scion and the 4 plebs",
+            "1-800-QQ"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "hc worst nightmare",
+        "mmr": 7912.15,
+        "player_teams": [
+            "Empacadores de Soriana"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Mari Illustrious Makinami",
+        "mmr": 7906.61,
+        "player_teams": [
+            "Northern Hog Suckers",
+            "Want Steep Sets?"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "Drewarosa",
+        "mmr": 7905.34,
+        "player_teams": [
+            "Dark Horse Tempest "
+        ],
+        "matches": 24,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.24
+    },
+    {
+        "player_name": "Yrral",
+        "mmr": 7903.77,
+        "player_teams": [
+            "Northern Hog Suckers",
+            "Want Steep Sets?",
+            "dXo-Heroic - Mantle of Midas"
+        ],
+        "matches": 77,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.77
+    },
+    {
+        "player_name": "sorry",
+        "mmr": 7902.82,
+        "player_teams": [
+            "WeLostThisBros",
+            "Love & Peace (Right Version)"
+        ],
+        "matches": 40,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.4
+    },
+    {
+        "player_name": "50.Centaur Saves Gaza",
+        "mmr": 7893.11,
+        "player_teams": [
+            "Spice Boys",
+            "WAKANDA MADE IN CHYNA",
+            "Cinco De Mayo"
+        ],
+        "matches": 31,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.31
+    },
+    {
+        "player_name": "3row",
+        "mmr": 7887.56,
+        "player_teams": [
+            "Spice Boys",
+            "Sunlight Covenant",
+            "Team Tidehunter"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "FrodoLaporte",
+        "mmr": 7880.08,
+        "player_teams": [
+            "Northern Hog Suckers",
+            "Ape Express",
+            "Want Steep Sets?",
+            "Dark Horse"
+        ],
+        "matches": 78,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.78
+    },
+    {
+        "player_name": "buffles",
+        "mmr": 7871.53,
+        "player_teams": [
+            "NO WRAITHPACT",
+            "1-800-QQ",
+            "dXo-Heroic - Mantle of Midas"
+        ],
+        "matches": 32,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.32
+    },
+    {
+        "player_name": "SiliXx.\u3042\u3059\u304b",
+        "mmr": 7866.03,
+        "player_teams": [
+            "KnockKnock",
+            "Balerion All-Blacks",
+            "Northern Hog Suckers",
+            "Giga Obese Ovarian Navigators",
+            "Rektal Damage"
+        ],
+        "matches": 60,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.6
+    },
+    {
+        "player_name": "Picashii",
+        "mmr": 7860.47,
+        "player_teams": [
+            "Dark Horse Tempest "
+        ],
+        "matches": 26,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.26
+    },
+    {
+        "player_name": "Dr. EpiK",
+        "mmr": 7854.57,
+        "player_teams": [
+            "WeLostThisBros",
+            "Love & Peace (Right Version)"
+        ],
+        "matches": 43,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.43
+    },
+    {
+        "player_name": "For The Pills",
+        "mmr": 7841.91,
+        "player_teams": [
+            "Gucci God"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "THE BOILING FROG",
+        "mmr": 7841.31,
+        "player_teams": [
+            "Aogiri Tree"
+        ],
+        "matches": 31,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.31
+    },
+    {
+        "player_name": "Babaganoush",
+        "mmr": 7838.49,
+        "player_teams": [
+            "WeLostThisBros"
+        ],
+        "matches": 30,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.3
+    },
+    {
+        "player_name": "Celtic",
+        "mmr": 7836.07,
+        "player_teams": [
+            "Salt the Earth"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Kr@Ken_430",
+        "mmr": 7831.49,
+        "player_teams": [
+            "THE Sleppers4"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "wife",
+        "mmr": 7827.88,
+        "player_teams": [
+            "Spice Boys",
+            "New Rebellion",
+            "Giga Obese Ovarian Navigators",
+            "TEAM POLAND",
+            "dXo-Heroic - Mantle of Midas"
+        ],
+        "matches": 33,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.33
+    },
+    {
+        "player_name": "soy jamon 4",
+        "mmr": 7825.97,
+        "player_teams": [
+            "TEAM POLAND",
+            "Team Tidehunter"
+        ],
+        "matches": 38,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.38
+    },
+    {
+        "player_name": "44 .\u2022*\u00a8*\u2022.\u00b8\u00b8\u266a",
+        "mmr": 7824.92,
+        "player_teams": [
+            "WeLostThisBros",
+            "Aogiri Tree"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "hk",
+        "mmr": 7821.34,
+        "player_teams": [
+            "Spice Boys",
+            "New Rebellion",
+            "Max Retaliate"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "S-10",
+        "mmr": 7818.83,
+        "player_teams": [
+            "Gucci God",
+            "#1 Yami Glazers"
+        ],
+        "matches": 43,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.43
+    },
+    {
+        "player_name": "Roo",
+        "mmr": 7806.87,
+        "player_teams": [
+            "Want Steep Sets?",
+            "Dark Horse"
+        ],
+        "matches": 93,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.93
+    },
+    {
+        "player_name": "Scarebee",
+        "mmr": 7806.48,
+        "player_teams": [
+            "Dark Horse"
+        ],
+        "matches": 35,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.35
+    },
+    {
+        "player_name": "ferociousspud",
+        "mmr": 7806.1,
+        "player_teams": [
+            "Dark Horse"
+        ],
+        "matches": 80,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.8
+    },
+    {
+        "player_name": "KingBob",
+        "mmr": 7804.3,
+        "player_teams": [
+            "Dark Horse Storm",
+            "Dark Horse Vitality",
+            "Dark Horse"
+        ],
+        "matches": 101,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "Koamaru",
+        "mmr": 7801.09,
+        "player_teams": [
+            "dXo-Heroic - Mantle of Midas",
+            "Nat 20"
+        ],
+        "matches": 30,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.3
+    },
+    {
+        "player_name": "sTough",
+        "mmr": 7799.22,
+        "player_teams": [
+            "Dark Horse"
+        ],
+        "matches": 78,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.78
+    },
+    {
+        "player_name": "Heapin' Honkers",
+        "mmr": 7796.34,
+        "player_teams": [
+            "WeLostThisBros",
+            "Helmet's On",
+            "Aogiri Tree",
+            "Helmets On"
+        ],
+        "matches": 41,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.41
+    },
+    {
+        "player_name": "Pumpkin(All chat muted)",
+        "mmr": 7793.28,
+        "player_teams": [
+            "WeLostThisBros",
+            "The Whimsical Afrasians"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "raze",
+        "mmr": 7793.27,
+        "player_teams": [
+            "Aogiri Tree"
+        ],
+        "matches": 37,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "Naya Of Alara",
+        "mmr": 7787.75,
+        "player_teams": [
+            "Balerion All-Blacks",
+            "Dark Horse",
+            "Emotional Damage",
+            "PSGS"
+        ],
+        "matches": 94,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.94
+    },
+    {
+        "player_name": "Resisting the Desire to end it",
+        "mmr": 7773.22,
+        "player_teams": [
+            "The Whimsical Afrasians",
+            "Sounding Club",
+            "Gucci God",
+            "Aogiri Tree",
+            "Drip or Drown"
+        ],
+        "matches": 82,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.82
+    },
+    {
+        "player_name": "ooo",
+        "mmr": 7769.76,
+        "player_teams": [
+            "DinoMight",
+            "Gucci God",
+            "Drip or Drown",
+            "#1 Yami Glazers"
+        ],
+        "matches": 80,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.8
+    },
+    {
+        "player_name": "Sempiternal",
+        "mmr": 7765.67,
+        "player_teams": [
+            "tainted gluggers",
+            "mosin on valley"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "HeroesOfNewerth",
+        "mmr": 7763.88,
+        "player_teams": [
+            "WeLostThisBros",
+            "Gucci God",
+            "Northern Hog Suckers",
+            "#1 Yami Glazers"
+        ],
+        "matches": 89,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.89
+    },
+    {
+        "player_name": "Chanel N\u00b05",
+        "mmr": 7760.77,
+        "player_teams": [
+            "Spice Boys",
+            "tainted gluggers",
+            "mosin on valley"
+        ],
+        "matches": 50,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.5
+    },
+    {
+        "player_name": "Calipsis",
+        "mmr": 7752.99,
+        "player_teams": [
+            "Average Krill Eaters",
+            "Giga Obese Ovarian Navigators",
+            "Sunlight Covenant",
+            "Team Tidehunter"
+        ],
+        "matches": 52,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.52
+    },
+    {
+        "player_name": "LoneWolf",
+        "mmr": 7745.58,
+        "player_teams": [
+            "WAP",
+            "Baja Blasters"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "Tokamak",
+        "mmr": 7727.63,
+        "player_teams": [
+            "Balerion All-Blacks",
+            "Drip or Drown"
+        ],
+        "matches": 38,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.38
+    },
+    {
+        "player_name": "criminal animal",
+        "mmr": 7722.0,
+        "player_teams": [
+            "Crime Time"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "TheSmallNut",
+        "mmr": 7714.08,
+        "player_teams": [
+            "Sounding Club",
+            "Ens\u014d",
+            "Sunlight Covenant"
+        ],
+        "matches": 32,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.32
+    },
+    {
+        "player_name": "Merk 13",
+        "mmr": 7697.89,
+        "player_teams": [
+            "Does This Game have Fall Damage?",
+            "dXo-Heroic - Mantle of Midas",
+            "Nat 20"
+        ],
+        "matches": 44,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.44
+    },
+    {
+        "player_name": "mode: that brother needs help",
+        "mmr": 7690.51,
+        "player_teams": [
+            "TEAM POLAND",
+            "Garrett and Friends",
+            "Wasted Sad & Suicidal",
+            "Wasted.Creature"
+        ],
+        "matches": 60,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.6
+    },
+    {
+        "player_name": "BokChoyBitch",
+        "mmr": 7682.92,
+        "player_teams": [
+            "Jason Vas Foundation Picks for the Cure",
+            "Max Retaliate"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "ok",
+        "mmr": 7676.17,
+        "player_teams": [
+            "The Whimsical Afrasians",
+            "GOOD TWINK HUNTING",
+            "Twinks and The Twinker",
+            "WoT's Sounding Club",
+            "Waist of Time",
+            "Daggers in my coco"
+        ],
+        "matches": 52,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.52
+    },
+    {
+        "player_name": "Sixty Two Cents",
+        "mmr": 7675.48,
+        "player_teams": [
+            "Northern Hog Suckers",
+            "Soy Sauce: Revolution"
+        ],
+        "matches": 54,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.54
+    },
+    {
+        "player_name": "t.tv/shattovv",
+        "mmr": 7671.3,
+        "player_teams": [
+            "beignet boys"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Lord Luci",
+        "mmr": 7659.05,
+        "player_teams": [
+            "Heroes of Golf?",
+            "Rektal Damage",
+            "#Packwatch",
+            "Sounding Club"
+        ],
+        "matches": 52,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.52
+    },
+    {
+        "player_name": "green dragon bot",
+        "mmr": 7657.86,
+        "player_teams": [
+            "Heroes of Golf?",
+            "Waist Of Time",
+            "Brit I'm a Dog, Woof! Brrr",
+            "GOOD TWINK HUNTING",
+            "Twinks and The Twinker",
+            "Ens\u014d",
+            "Helmets On",
+            "Gucci God",
+            "Waist of Time",
+            "Golf Tuesday?",
+            "Daggers in my coco",
+            "Go play offlane",
+            "7dark Thirty"
+        ],
+        "matches": 123,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "Tokc",
+        "mmr": 7657.06,
+        "player_teams": [
+            "Wasted Sad & Suicidal",
+            "Wasted.Creature",
+            "Wasted with Clare in the Finals",
+            "We Scale Late ",
+            "Garrett and Friends"
+        ],
+        "matches": 76,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.76
+    },
+    {
+        "player_name": "HULK",
+        "mmr": 7650.52,
+        "player_teams": [
+            "We Scale Late ",
+            "Wasted with Clare in the Finals",
+            "Wasted.Creature"
+        ],
+        "matches": 52,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.52
+    },
+    {
+        "player_name": "mafjetz",
+        "mmr": 7649.28,
+        "player_teams": [
+            "GRIN Scythe"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "ScurvyDog",
+        "mmr": 7646.6,
+        "player_teams": [
+            "New Rebellion",
+            "Cinco De Mayo",
+            "Waist of Time",
+            "Daggers in my coco",
+            "WAKANDA MADE IN CHYNA"
+        ],
+        "matches": 46,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.46
+    },
+    {
+        "player_name": "Panda",
+        "mmr": 7646.57,
+        "player_teams": [
+            "Heroes of Golf?",
+            "Brit I'm a Dog, Woof! Brrr",
+            "GOOD TWINK HUNTING",
+            "Twinks and The Twinker",
+            "Sounding Club",
+            "WoT's Sounding Club",
+            "Golf Tuesday?",
+            "Daggers in my coco",
+            "Team Tidehunter",
+            "Go play offlane"
+        ],
+        "matches": 88,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.88
+    },
+    {
+        "player_name": "jelly",
+        "mmr": 7641.77,
+        "player_teams": [
+            "Twinks and The Twinker",
+            "Los Animales de Golf?",
+            "Coked up (cute) Kobolds",
+            "GOOD TWINK HUNTING"
+        ],
+        "matches": 59,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.59
+    },
+    {
+        "player_name": "smack",
+        "mmr": 7640.69,
+        "player_teams": [
+            "Wasted Sad & Suicidal",
+            "TEAM POLAND",
+            "Wasted with Clare in the Finals",
+            "Team Tidehunter",
+            "Garrett and Friends"
+        ],
+        "matches": 71,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.71
+    },
+    {
+        "player_name": "Clare: Reloaded",
+        "mmr": 7629.9,
+        "player_teams": [
+            "Wasted Sad & Suicidal",
+            "Wasted.Creature"
+        ],
+        "matches": 64,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.64
+    },
+    {
+        "player_name": "SaulGinnis",
+        "mmr": 7629.09,
+        "player_teams": [
+            "Wasted Sad & Suicidal",
+            "Wasted.Creature",
+            "Wasted with Clare in the Finals",
+            "We Scale Late ",
+            "Garrett and Friends"
+        ],
+        "matches": 77,
+        "reliable_mmr": true,
+        "stratz_mmr": 7500,
+        "rank_confidence": 0.77
+    },
+    {
+        "player_name": "Antivirus",
+        "mmr": 7625.82,
+        "player_teams": [
+            "Does This Game have Fall Damage?",
+            "Emotional Damage"
+        ],
+        "matches": 30,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.3
+    },
+    {
+        "player_name": "Jax",
+        "mmr": 7620.54,
+        "player_teams": [
+            "Scion and the 4 plebs",
+            "good for ducks, good for me"
+        ],
+        "matches": 37,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "bombogenesis day",
+        "mmr": 7616.07,
+        "player_teams": [
+            "Wasted.Creature",
+            "Wasted with Clare in the Finals",
+            "Foebe Phighters",
+            "We Scale Late ",
+            "Garrett and Friends"
+        ],
+        "matches": 64,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.64
+    },
+    {
+        "player_name": "Bagged Milk",
+        "mmr": 7614.81,
+        "player_teams": [
+            "Baja Blasters",
+            "beignet boys"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "Banach",
+        "mmr": 7614.42,
+        "player_teams": [
+            "Heroes of Golf?",
+            "Brit I'm a Dog, Woof! Brrr",
+            "Golf Monday?",
+            "Twinks and The Twinker",
+            "Golf Tuesday?"
+        ],
+        "matches": 80,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.8
+    },
+    {
+        "player_name": "de la Heeba",
+        "mmr": 7610.03,
+        "player_teams": [
+            "Jukes Angels"
+        ],
+        "matches": 25,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.25
+    },
+    {
+        "player_name": "ol' stinky",
+        "mmr": 7606.29,
+        "player_teams": [
+            "Daddy's ENGORGED Dictatorship",
+            "sheeesh"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "\u02da+\u02da+\u02da+\u02da+\u02da+\u02da",
+        "mmr": 7595.72,
+        "player_teams": [
+            "Dually Truck Hentai Warriors"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "h!",
+        "mmr": 7592.48,
+        "player_teams": [
+            "Wasted.Creature"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 7500,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Shamuraii",
+        "mmr": 7591.35,
+        "player_teams": [
+            "Heroes of Golf?",
+            "Team Tidehunter",
+            "Highly Regarded Individuals",
+            "Plinks of Golf?"
+        ],
+        "matches": 79,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.79
+    },
+    {
+        "player_name": "Scionara",
+        "mmr": 7582.08,
+        "player_teams": [
+            "Ens\u014d",
+            "Scion and the 4 plebs",
+            "good for ducks, good for me",
+            "#Packwatch"
+        ],
+        "matches": 84,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.84
+    },
+    {
+        "player_name": "Fathomorg",
+        "mmr": 7580.53,
+        "player_teams": [
+            "Does This Game have Fall Damage?",
+            "WeLostThisBros",
+            "Love & Peace (Right Version)",
+            "Emotional Damage"
+        ],
+        "matches": 62,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.62
+    },
+    {
+        "player_name": "BORK",
+        "mmr": 7563.35,
+        "player_teams": [
+            "Flex Offenders",
+            "Glizzy Gobblers"
+        ],
+        "matches": 37,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "spanky",
+        "mmr": 7560.05,
+        "player_teams": [
+            "Team Mochi"
+        ],
+        "matches": 82,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.82
+    },
+    {
+        "player_name": "Luigi Mangione",
+        "mmr": 7559.05,
+        "player_teams": [
+            "Heroes of Golf?",
+            "Ape Express",
+            "mosin on valley"
+        ],
+        "matches": 33,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.33
+    },
+    {
+        "player_name": "\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167\u2167",
+        "mmr": 7558.26,
+        "player_teams": [
+            "Flex Offenders",
+            "Glizzy Gobblers"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "poogie",
+        "mmr": 7558.26,
+        "player_teams": [
+            "Flex Offenders",
+            "Glizzy Gobblers"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "Dr. UndoneJin",
+        "mmr": 7557.83,
+        "player_teams": [
+            "Team awesome",
+            "Sounding Club",
+            "Nocturnal Rainbow",
+            "Salt the Earth"
+        ],
+        "matches": 52,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.52
+    },
+    {
+        "player_name": "Holo\u30db\u30ed",
+        "mmr": 7542.59,
+        "player_teams": [
+            "Does This Game have Fall Damage?",
+            "Chicken Joe's Reincarnation Cult",
+            "good for ducks, good for me"
+        ],
+        "matches": 45,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.45
+    },
+    {
+        "player_name": "lovell!!!!!!!!!!!!!!!!!!!",
+        "mmr": 7540.04,
+        "player_teams": [
+            "Northern Hog Suckers",
+            "Dark Horse Tempest ",
+            "Soy Sauce: Revolution"
+        ],
+        "matches": 106,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "Lake Michigan",
+        "mmr": 7539.78,
+        "player_teams": [
+            "Dark Horse Tempest ",
+            "Soy Sauce: Revolution"
+        ],
+        "matches": 102,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "Brok3n-",
+        "mmr": 7537.26,
+        "player_teams": [
+            "Scion and the 4 plebs",
+            "Aogiri Tree",
+            "Go play offlane"
+        ],
+        "matches": 42,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.42
+    },
+    {
+        "player_name": "ShadowAce",
+        "mmr": 7522.48,
+        "player_teams": [
+            "We Scale Late ",
+            "Wasted.Creature"
+        ],
+        "matches": 24,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.24
+    },
+    {
+        "player_name": "Imphatic",
+        "mmr": 7520.07,
+        "player_teams": [
+            "Nocturnal Rainbow",
+            "Salt the Earth"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Blocka\u2122",
+        "mmr": 7511.59,
+        "player_teams": [
+            "DinoMight",
+            "Jason Vas Foundation Picks for the Cure"
+        ],
+        "matches": 32,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.32
+    },
+    {
+        "player_name": "Spiroar",
+        "mmr": 7503.45,
+        "player_teams": [
+            "Ens\u014d",
+            "Dota Under the Influence",
+            "Team Krill Eater"
+        ],
+        "matches": 28,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.28
+    },
+    {
+        "player_name": "Angrysun",
+        "mmr": 7501.55,
+        "player_teams": [
+            "Dark Horse Storm",
+            "Dark Horse Tempest ",
+            "Golf Monday?",
+            "Dark Horse Vitality"
+        ],
+        "matches": 101,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "KILLAYOUA",
+        "mmr": 7499.22,
+        "player_teams": [
+            "Gucci Coffin",
+            "Jukes Angels"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "han",
+        "mmr": 7492.82,
+        "player_teams": [
+            "Team Mochi"
+        ],
+        "matches": 101,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "hungryphenix",
+        "mmr": 7489.51,
+        "player_teams": [
+            "Team Mochi"
+        ],
+        "matches": 99,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.99
+    },
+    {
+        "player_name": "Excaliburracuda",
+        "mmr": 7489.45,
+        "player_teams": [
+            "Brit I'm a Dog, Woof! Brrr",
+            "PSGS",
+            "Pot Of Greed"
+        ],
+        "matches": 34,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.34
+    },
+    {
+        "player_name": "bulbi",
+        "mmr": 7485.79,
+        "player_teams": [
+            "I am > I was",
+            "Pot Of Greed",
+            "WAP",
+            "Digital Habitat",
+            "Aogiri Tree",
+            "10toes"
+        ],
+        "matches": 35,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.35
+    },
+    {
+        "player_name": "FLYDOM",
+        "mmr": 7484.11,
+        "player_teams": [
+            "Team Mochi"
+        ],
+        "matches": 99,
+        "reliable_mmr": true,
+        "stratz_mmr": 6600,
+        "rank_confidence": 0.99
+    },
+    {
+        "player_name": "@CrasheroniDota",
+        "mmr": 7482.15,
+        "player_teams": [
+            "Dark Horse Tempest ",
+            "Max Retaliate"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "lysergic acid diethylamide",
+        "mmr": 7471.34,
+        "player_teams": [
+            "Island in the Winter Sun",
+            "Conquerors of the Island in the Sun",
+            "Dually Truck RoadRunners"
+        ],
+        "matches": 29,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.29
+    },
+    {
+        "player_name": "Potatoes~~~~",
+        "mmr": 7466.93,
+        "player_teams": [
+            "Wasted.Creature"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Peter Buttermilk",
+        "mmr": 7466.87,
+        "player_teams": [
+            "New Rebellion"
+        ],
+        "matches": 20,
+        "reliable_mmr": false,
+        "stratz_mmr": 7000.0,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "kden",
+        "mmr": 7462.11,
+        "player_teams": [
+            "Baja Blasters",
+            "beignet boys",
+            "Soy Sauce: Revolution"
+        ],
+        "matches": 51,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.51
+    },
+    {
+        "player_name": "Egotistical Confidence",
+        "mmr": 7459.62,
+        "player_teams": [
+            "Simple Chemistry",
+            "dXo-Rejects",
+            "The Rejects",
+            "Scion and the 4 plebs",
+            "SpookyScarySkeletons",
+            "good for ducks, good for me"
+        ],
+        "matches": 101,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "pookah",
+        "mmr": 7457.21,
+        "player_teams": [
+            "dXo-Warrior",
+            "beignet boys",
+            "Grillin and Chillin"
+        ],
+        "matches": 47,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.47
+    },
+    {
+        "player_name": "captainlittledinky",
+        "mmr": 7454.66,
+        "player_teams": [
+            "Nocturnal Rainbow",
+            "Salt the Earth"
+        ],
+        "matches": 32,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.32
+    },
+    {
+        "player_name": "JuicyPanda",
+        "mmr": 7449.98,
+        "player_teams": [
+            "Heroes of Golf?",
+            "Waist of Time",
+            "Daggers in my coco",
+            "Highly Regarded Individuals",
+            "Plinks of Golf?"
+        ],
+        "matches": 71,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.71
+    },
+    {
+        "player_name": "Marooniii",
+        "mmr": 7449.19,
+        "player_teams": [
+            "Dually Truck Hentai Warriors",
+            "Dually Truck Diesel Drinkers",
+            "Dually Truck RoadRunners",
+            "Radiance invoker"
+        ],
+        "matches": 38,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.38
+    },
+    {
+        "player_name": "MAQ-IQ",
+        "mmr": 7444.63,
+        "player_teams": [
+            "Dually Truck Hentai Warriors",
+            "Golf Wrensday?",
+            "dXo-Heroic - Mantle of Midas"
+        ],
+        "matches": 45,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.45
+    },
+    {
+        "player_name": "we dont drink 32s",
+        "mmr": 7440.86,
+        "player_teams": [
+            "Sounding Club",
+            "tainted gluggers",
+            "mosin on valley",
+            "#Packwatch"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "waffz",
+        "mmr": 7439.62,
+        "player_teams": [
+            "Flex Offenders",
+            "Glizzy Gobblers"
+        ],
+        "matches": 37,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "Icarus",
+        "mmr": 7439.22,
+        "player_teams": [
+            "Does This Game have Fall Damage?",
+            "Plinks of Golf?"
+        ],
+        "matches": 66,
+        "reliable_mmr": true,
+        "stratz_mmr": 6600,
+        "rank_confidence": 0.66
+    },
+    {
+        "player_name": "KayceeMJ",
+        "mmr": 7439.2,
+        "player_teams": [
+            "Dark Horse Tempest ",
+            "GRIN Scythe",
+            "GRIN Prism",
+            "Nameless"
+        ],
+        "matches": 77,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.77
+    },
+    {
+        "player_name": "Erock",
+        "mmr": 7423.73,
+        "player_teams": [
+            "Heroes of Golf?",
+            "Ens\u014d",
+            "Does This Game have Fall Damage?",
+            "Highly Regarded Individuals",
+            "Plinks of Golf?"
+        ],
+        "matches": 58,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.58
+    },
+    {
+        "player_name": "K1ra",
+        "mmr": 7421.16,
+        "player_teams": [
+            "Ens\u014d",
+            "1-800-QQ"
+        ],
+        "matches": 35,
+        "reliable_mmr": false,
+        "stratz_mmr": 7069.2307692307695,
+        "rank_confidence": 0.35
+    },
+    {
+        "player_name": "Fav",
+        "mmr": 7416.45,
+        "player_teams": [
+            "Ens\u014d",
+            "dXo-Champion",
+            "Digital Habitat"
+        ],
+        "matches": 74,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.74
+    },
+    {
+        "player_name": "PizzaJr",
+        "mmr": 7410.97,
+        "player_teams": [
+            "Grillin and Chillin",
+            "Ens\u014d",
+            "Soy Sauce: Revolution",
+            "Foebe Phighters"
+        ],
+        "matches": 53,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.53
+    },
+    {
+        "player_name": "Edge Tember",
+        "mmr": 7409.91,
+        "player_teams": [
+            "Heroes of Golf?",
+            "Comrades of Golf?",
+            "Golf Monday?",
+            "Highly Regarded Individuals"
+        ],
+        "matches": 97,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.97
+    },
+    {
+        "player_name": "Rusty Shackleford",
+        "mmr": 7407.8,
+        "player_teams": [
+            "Heroes of Golf?",
+            "Golf Monday?",
+            "Highly Regarded Individuals",
+            "Plinks of Golf?"
+        ],
+        "matches": 98,
+        "reliable_mmr": true,
+        "stratz_mmr": 7500,
+        "rank_confidence": 0.98
+    },
+    {
+        "player_name": "Bernie Sanders",
+        "mmr": 7385.06,
+        "player_teams": [
+            "Golf Monday?",
+            "Comrades of Golf?",
+            "Los Animales de Golf?",
+            "Highly Regarded Individuals",
+            "Batchesters of Golf?"
+        ],
+        "matches": 89,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.89
+    },
+    {
+        "player_name": "TornadO",
+        "mmr": 7384.92,
+        "player_teams": [
+            "Team Mochi"
+        ],
+        "matches": 65,
+        "reliable_mmr": false,
+        "stratz_mmr": 6054.545454545455,
+        "rank_confidence": 0.65
+    },
+    {
+        "player_name": "yoshi",
+        "mmr": 7359.57,
+        "player_teams": [
+            "Chicken Joe's Reincarnation Cult",
+            "GRIN Scythe",
+            "GRIN Prism"
+        ],
+        "matches": 40,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.4
+    },
+    {
+        "player_name": "Ouchkabibbles",
+        "mmr": 7351.01,
+        "player_teams": [
+            "Helmet's On",
+            "Helmets On"
+        ],
+        "matches": 85,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.85
+    },
+    {
+        "player_name": "Stretchy Arms",
+        "mmr": 7348.43,
+        "player_teams": [
+            "Helmets On"
+        ],
+        "matches": 87,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.87
+    },
+    {
+        "player_name": "Morning",
+        "mmr": 7347.84,
+        "player_teams": [
+            "animal enclosure",
+            "Dota Under the Influence",
+            "GRIN Fury"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "Radiofoot",
+        "mmr": 7346.65,
+        "player_teams": [
+            "Island in the Winter Sun",
+            "Helmets On",
+            "Team Samsara"
+        ],
+        "matches": 91,
+        "reliable_mmr": true,
+        "stratz_mmr": 7500,
+        "rank_confidence": 0.91
+    },
+    {
+        "player_name": "Big Red",
+        "mmr": 7346.46,
+        "player_teams": [
+            "Does This Game have Fall Damage?",
+            "Ens\u014d"
+        ],
+        "matches": 76,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.76
+    },
+    {
+        "player_name": "Merc-Ury",
+        "mmr": 7341.37,
+        "player_teams": [
+            "Does This Game have Fall Damage?",
+            "Ens\u014d"
+        ],
+        "matches": 74,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.74
+    },
+    {
+        "player_name": "JerBear, Today's Word: \u5f97\u9592\u98f2\u8336",
+        "mmr": 7340.81,
+        "player_teams": [
+            "Dark Horse Tempest ",
+            "Jason Vas Foundation Picks for the Cure",
+            "Max Retaliate"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "Sync",
+        "mmr": 7340.46,
+        "player_teams": [
+            "Calamity Crew"
+        ],
+        "matches": 37,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "Dr. Changsteen",
+        "mmr": 7334.02,
+        "player_teams": [
+            "DinoMight",
+            "Helmet's On",
+            "Helmets On"
+        ],
+        "matches": 91,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.91
+    },
+    {
+        "player_name": "dnjiii",
+        "mmr": 7310.07,
+        "player_teams": [
+            "WAP",
+            "GRIN Fury",
+            "Dually Truck RoadRunners"
+        ],
+        "matches": 41,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.41
+    },
+    {
+        "player_name": "please immortal",
+        "mmr": 7307.26,
+        "player_teams": [
+            "The Whimsical Afrasians",
+            "Sounding Club",
+            "I am > I was",
+            "Team Samsara",
+            "Does This Game have Fall Damage?"
+        ],
+        "matches": 37,
+        "reliable_mmr": false,
+        "stratz_mmr": 7078.571428571428,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "Someoneskid",
+        "mmr": 7293.05,
+        "player_teams": [
+            "SMD9813"
+        ],
+        "matches": 25,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.25
+    },
+    {
+        "player_name": "Urbow",
+        "mmr": 7290.6,
+        "player_teams": [
+            "The Whimsical Afrasians",
+            "Sounding Club",
+            "Harambe's Homies",
+            "Los Animales de Golf?",
+            "Nocturnal Rainbow",
+            "Digital Habitat",
+            "Team Ligma"
+        ],
+        "matches": 93,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.93
+    },
+    {
+        "player_name": "Son",
+        "mmr": 7256.42,
+        "player_teams": [
+            "I am > I was",
+            "beignet boys",
+            "Scion and the 4 plebs",
+            "10toes",
+            "Savage Spirits"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "C0re",
+        "mmr": 7254.08,
+        "player_teams": [
+            "Heroes of Golf?",
+            "GOOD TWINK HUNTING",
+            "Twinks and The Twinker",
+            "Coked up (cute) Kobolds",
+            "Harambe's Homies",
+            "Simple Chemistry",
+            "DinoMight",
+            "Slow Twitch Muscle Fibers",
+            "Jukes Angels"
+        ],
+        "matches": 54,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.54
+    },
+    {
+        "player_name": "pG",
+        "mmr": 7251.3,
+        "player_teams": [
+            "Zealous Gaming"
+        ],
+        "matches": 36,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.36
+    },
+    {
+        "player_name": "I Am Steve",
+        "mmr": 7240.82,
+        "player_teams": [
+            "WAP",
+            "texts go green"
+        ],
+        "matches": 28,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.28
+    },
+    {
+        "player_name": "Hartrun7",
+        "mmr": 7230.91,
+        "player_teams": [
+            "Gucci Coffin",
+            "PSGS",
+            "mosin on valley",
+            "Harambe's Homies"
+        ],
+        "matches": 31,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.31
+    },
+    {
+        "player_name": "Thugpot@to01",
+        "mmr": 7226.75,
+        "player_teams": [
+            "Coked up (cute) Kobolds",
+            "Does This Game have Fall Damage?",
+            "dXo-Champion",
+            "1-800-QQ"
+        ],
+        "matches": 40,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.4
+    },
+    {
+        "player_name": "JzaR",
+        "mmr": 7186.7,
+        "player_teams": [
+            "sheeesh",
+            "SMD9813",
+            "Aogiri Tree",
+            "DinoMight",
+            "Daddy's ENGORGED Dictatorship"
+        ],
+        "matches": 95,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.95
+    },
+    {
+        "player_name": "Black-up",
+        "mmr": 7179.47,
+        "player_teams": [
+            "Golf Monday?",
+            "Helmet's On",
+            "Rats and Bunnies",
+            "Helmets On"
+        ],
+        "matches": 113,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "Ctrl-",
+        "mmr": 7174.75,
+        "player_teams": [
+            "Ape Express",
+            "Ens\u014d"
+        ],
+        "matches": 29,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.29
+    },
+    {
+        "player_name": "4thwrldmrshl",
+        "mmr": 7165.38,
+        "player_teams": [
+            "Conquerors of the Island in the Sun",
+            "Ens\u014d",
+            "The Bathtub Club",
+            "dXo-Rejects",
+            "The Rejects"
+        ],
+        "matches": 81,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.81
+    },
+    {
+        "player_name": "Abmis",
+        "mmr": 7155.79,
+        "player_teams": [
+            "GRIN Scythe"
+        ],
+        "matches": 48,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.48
+    },
+    {
+        "player_name": "Russ",
+        "mmr": 7154.85,
+        "player_teams": [
+            "SpookyScarySkeletons"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "Lorenzo",
+        "mmr": 7153.67,
+        "player_teams": [
+            "Coked up (cute) Kobolds",
+            "Average Krill Eaters",
+            "Ape Express",
+            "Team Krill Eater"
+        ],
+        "matches": 54,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.54
+    },
+    {
+        "player_name": "JDFM",
+        "mmr": 7151.75,
+        "player_teams": [
+            "Island in the Winter Sun",
+            "Conquerors of the Island in the Sun",
+            "Dually Truck RoadRunners"
+        ],
+        "matches": 28,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.28
+    },
+    {
+        "player_name": "Aynek",
+        "mmr": 7150.53,
+        "player_teams": [
+            "SpookyScarySkeletons"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "Welshy",
+        "mmr": 7149.93,
+        "player_teams": [
+            "Pot Of Greed"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Profanity",
+        "mmr": 7144.91,
+        "player_teams": [
+            "The Rejects"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Plate",
+        "mmr": 7119.65,
+        "player_teams": [
+            "'Nanner Grippers",
+            "GRIN Prism",
+            "Sounding Club",
+            "Savage Spirits"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Last Son of Krypton",
+        "mmr": 7119.04,
+        "player_teams": [
+            "Savage Spirits"
+        ],
+        "matches": 79,
+        "reliable_mmr": true,
+        "stratz_mmr": 7500,
+        "rank_confidence": 0.79
+    },
+    {
+        "player_name": "Gift",
+        "mmr": 7115.81,
+        "player_teams": [
+            "mosin on valley",
+            "Savage Spirits"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Khalsa GM",
+        "mmr": 7112.43,
+        "player_teams": [
+            "SpookyScarySkeletons"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "Achilles",
+        "mmr": 7101.17,
+        "player_teams": [
+            "7dark Thirty"
+        ],
+        "matches": 33,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.33
+    },
+    {
+        "player_name": "printer",
+        "mmr": 7095.02,
+        "player_teams": [
+            "Savage Spirits"
+        ],
+        "matches": 90,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.9
+    },
+    {
+        "player_name": "GlHf",
+        "mmr": 7079.47,
+        "player_teams": [
+            "beignet boys",
+            "Grillin and Chillin",
+            "Cerviche Molotov"
+        ],
+        "matches": 32,
+        "reliable_mmr": false,
+        "stratz_mmr": 6825.0,
+        "rank_confidence": 0.32
+    },
+    {
+        "player_name": "\ub77c\uc77c\ub9ac",
+        "mmr": 7078.29,
+        "player_teams": [
+            "DinoMight",
+            "Savage Saints",
+            "Savage Spirits"
+        ],
+        "matches": 95,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.95
+    },
+    {
+        "player_name": "Lapsed Pacifist",
+        "mmr": 7070.75,
+        "player_teams": [
+            "Jackson 5",
+            "Savage Spirits"
+        ],
+        "matches": 90,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.9
+    },
+    {
+        "player_name": "Slave to Winning",
+        "mmr": 7069.2,
+        "player_teams": [
+            "Crime Time",
+            "The Whimsical Afrasians",
+            "Golf Monday?",
+            "Brit I'm a Dog, Woof! Brrr",
+            "Coked up (cute) Kobolds",
+            "Los Animales de Golf?",
+            "Waist of Time",
+            "Waist of Golf?",
+            "Daggers in my coco",
+            "Golf Tuesday?"
+        ],
+        "matches": 92,
+        "reliable_mmr": true,
+        "stratz_mmr": 6300,
+        "rank_confidence": 0.92
+    },
+    {
+        "player_name": "phoenix",
+        "mmr": 7068.5,
+        "player_teams": [
+            "GRIN Scythe",
+            "GRIN Prism"
+        ],
+        "matches": 60,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.6
+    },
+    {
+        "player_name": "Time's",
+        "mmr": 7067.1,
+        "player_teams": [
+            "dXo-Rejects"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Chubbs",
+        "mmr": 7064.68,
+        "player_teams": [
+            "Dually Truck Hentai Warriors",
+            "GRIN Scythe",
+            "Dually Truck RoadRunners"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 7500,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "Beejack Honeydew",
+        "mmr": 7063.6,
+        "player_teams": [
+            "Eldrazi",
+            "Pot Of Greed"
+        ],
+        "matches": 29,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.29
+    },
+    {
+        "player_name": "JJnok",
+        "mmr": 7055.22,
+        "player_teams": [
+            "Island in the Winter Sun",
+            "Conquerors of the Island in the Sun",
+            "Slugcats"
+        ],
+        "matches": 73,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.73
+    },
+    {
+        "player_name": "DH. Jukester",
+        "mmr": 7053.41,
+        "player_teams": [
+            "Golf Monday?",
+            "Coked up (cute) Kobolds",
+            "I am > I was",
+            "Nat 20",
+            "Bubble Team",
+            "Digital Habitat",
+            "10toes",
+            "Jukes Angels"
+        ],
+        "matches": 73,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.73
+    },
+    {
+        "player_name": "mr worldwide",
+        "mmr": 7050.03,
+        "player_teams": [
+            "Coked up (cute) Kobolds",
+            "Jukes Angels",
+            "Digital Habitat"
+        ],
+        "matches": 45,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.45
+    },
+    {
+        "player_name": "Pony",
+        "mmr": 7049.83,
+        "player_teams": [
+            "Scion and the 4 plebs",
+            "Go play offlane"
+        ],
+        "matches": 37,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "LFT Next AD2L Szn",
+        "mmr": 7041.24,
+        "player_teams": [
+            "Ens\u014d",
+            "Bubble Team",
+            "2FrogsSoftware",
+            "Gucci Coffin",
+            "GRIN Rat Society",
+            "Slow Twitch Muscle Fibers",
+            "GRIN Fury"
+        ],
+        "matches": 83,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.83
+    },
+    {
+        "player_name": "UnrulyBear",
+        "mmr": 7040.93,
+        "player_teams": [
+            "good for ducks, good for me"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "cookies",
+        "mmr": 7040.29,
+        "player_teams": [
+            "'Nanner Grippers",
+            "Ens\u014d",
+            "Go play offlane",
+            "Daddy's ENGORGED Dictatorship",
+            "Savage Spirits"
+        ],
+        "matches": 37,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "frost",
+        "mmr": 7038.41,
+        "player_teams": [
+            "PSGS",
+            "Bubble Team",
+            "Plinks of Golf?",
+            "Golf Thirstday?",
+            "Savage Spirits"
+        ],
+        "matches": 72,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.72
+    },
+    {
+        "player_name": "\u272aAlareiks\u272a",
+        "mmr": 7037.64,
+        "player_teams": [
+            "sheeesh"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "SSC",
+        "mmr": 7036.69,
+        "player_teams": [
+            "Gucci Coffin",
+            "PRESTIGE WORLDWIDE",
+            "Harambe's Homies"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Nigerian White",
+        "mmr": 7026.59,
+        "player_teams": [
+            "Zealous Gaming"
+        ],
+        "matches": 36,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.36
+    },
+    {
+        "player_name": "Dragoness",
+        "mmr": 7026.22,
+        "player_teams": [
+            "Dually Truck Hentai Warriors",
+            "Rats and Bunnies",
+            "mosin on valley"
+        ],
+        "matches": 32,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.32
+    },
+    {
+        "player_name": "butthealth",
+        "mmr": 7017.13,
+        "player_teams": [
+            "Dark Horse Storm",
+            "'Nanner Grippers",
+            "Rats and Bunnies",
+            "Nameless",
+            "OTF",
+            "SMD9813",
+            "Waist of Golf?",
+            "Daddy's ENGORGED Dictatorship",
+            "Savage Sabers",
+            "GRIN Smoke"
+        ],
+        "matches": 125,
+        "reliable_mmr": true,
+        "stratz_mmr": 7600,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "cartographer",
+        "mmr": 7015.99,
+        "player_teams": [
+            "Coked up (cute) Kobolds",
+            "Average Krill Eaters",
+            "Los Animales de Golf?",
+            "Does This Game have Fall Damage?",
+            "Digital Habitat",
+            "Team Krill Eater",
+            "Go play offlane",
+            "Calamity Crew"
+        ],
+        "matches": 96,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.96
+    },
+    {
+        "player_name": "Tempest\u5d50",
+        "mmr": 6993.79,
+        "player_teams": [
+            "Calamity Crew"
+        ],
+        "matches": 47,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.47
+    },
+    {
+        "player_name": "GeeR3",
+        "mmr": 6993.49,
+        "player_teams": [
+            "Dually Truck Hentai Warriors",
+            "PSGS",
+            "Pot Of Greed"
+        ],
+        "matches": 51,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.51
+    },
+    {
+        "player_name": "ReVamp",
+        "mmr": 6983.99,
+        "player_teams": [
+            "Savage Saints",
+            "GRIN Prism",
+            "Pizzadog.JV",
+            "Dota Under the Influence",
+            "Dumpster Fire",
+            "Idiots",
+            "GRIN Scythe",
+            "Savage Spirits"
+        ],
+        "matches": 89,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.89
+    },
+    {
+        "player_name": "ClowD",
+        "mmr": 6967.64,
+        "player_teams": [
+            "Simple Chemistry",
+            "Slow Twitch Muscle Fibers",
+            "7dark Thirty",
+            "Rod of a Toast"
+        ],
+        "matches": 76,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.76
+    },
+    {
+        "player_name": "IPwnedAIDS",
+        "mmr": 6961.67,
+        "player_teams": [
+            "Dark Horse Storm",
+            "Rodents and Hares Pest Control",
+            "Rats and Bunnies",
+            "Simple Chemistry",
+            "7dark Thirty",
+            "Slow Twitch Muscle Fibers",
+            "Dark Horse Vitality",
+            "Rod of a Toast",
+            "GRIN Smoke"
+        ],
+        "matches": 96,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.96
+    },
+    {
+        "player_name": "AZ",
+        "mmr": 6960.31,
+        "player_teams": [
+            "animal enclosure",
+            "Rats and Bunnies",
+            "Harambe's Homies",
+            "PSGS",
+            "Gucci Coffin",
+            "4 NOOBS 1 TROLLBUS",
+            "GRIN Scythe"
+        ],
+        "matches": 59,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.59
+    },
+    {
+        "player_name": "Daddy Odin",
+        "mmr": 6960.02,
+        "player_teams": [
+            "Savage Saints",
+            "Rats and Bunnies",
+            "Conquerors of the Island in the Sun",
+            "Ens\u014d",
+            "Island in the Winter Sun",
+            "Baja Blasters",
+            "The Rejects",
+            "Calamity Crew"
+        ],
+        "matches": 89,
+        "reliable_mmr": true,
+        "stratz_mmr": 7500,
+        "rank_confidence": 0.89
+    },
+    {
+        "player_name": "1 last time",
+        "mmr": 6959.12,
+        "player_teams": [
+            "Coked up (cute) Kobolds",
+            "I am > I was",
+            "OTF",
+            "Team Krill Eater",
+            "10toes",
+            "GRIN Scythe",
+            "Rod of a Toast"
+        ],
+        "matches": 66,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.66
+    },
+    {
+        "player_name": "MyM.Slayer",
+        "mmr": 6946.17,
+        "player_teams": [
+            "Simple Chemistry",
+            "Slow Twitch Muscle Fibers",
+            "7dark Thirty",
+            "Rod of a Toast"
+        ],
+        "matches": 83,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.83
+    },
+    {
+        "player_name": "twubz",
+        "mmr": 6931.42,
+        "player_teams": [
+            "Merrill Howard Kalin Fan Club"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "Forgotten",
+        "mmr": 6927.52,
+        "player_teams": [
+            "Pot Of Greed",
+            "PSGS",
+            "Eldrazi",
+            "Savage Spirits"
+        ],
+        "matches": 60,
+        "reliable_mmr": false,
+        "stratz_mmr": 6372.222222222223,
+        "rank_confidence": 0.6
+    },
+    {
+        "player_name": "lostperson",
+        "mmr": 6924.57,
+        "player_teams": [
+            "Merrill Howard Kalin Fan Club",
+            "'Nanner Grippers",
+            "Team Ligma"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 7500,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "GNX",
+        "mmr": 6923.72,
+        "player_teams": [
+            "OTF",
+            "Team Samsara",
+            "Rod of a Toast",
+            "Team Ligma"
+        ],
+        "matches": 72,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.72
+    },
+    {
+        "player_name": "malibu",
+        "mmr": 6923.37,
+        "player_teams": [
+            "animal enclosure",
+            "Honey Beesports",
+            "Team Samsara",
+            "2FrogsSoftware",
+            "GRIN Fury"
+        ],
+        "matches": 53,
+        "reliable_mmr": true,
+        "stratz_mmr": 8000,
+        "rank_confidence": 0.53
+    },
+    {
+        "player_name": "Marine",
+        "mmr": 6921.96,
+        "player_teams": [
+            "OTF",
+            "Team Ligma"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "(BP)Bluntman(Chronic)",
+        "mmr": 6896.47,
+        "player_teams": [
+            "OTF",
+            "Team Samsara"
+        ],
+        "matches": 28,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.28
+    },
+    {
+        "player_name": "fortniteman",
+        "mmr": 6884.49,
+        "player_teams": [
+            "Coked up (cute) Kobolds",
+            "'Nanner Grippers",
+            "Daddy's ENGORGED Dictatorship",
+            "Los Animales de Golf?"
+        ],
+        "matches": 82,
+        "reliable_mmr": true,
+        "stratz_mmr": 6300,
+        "rank_confidence": 0.82
+    },
+    {
+        "player_name": "Manoy",
+        "mmr": 6879.28,
+        "player_teams": [
+            "Rats and Bunnies",
+            "texts go green",
+            "Brain Damage",
+            "LF Danny Playoff Replacement",
+            "Pizzadog Academy",
+            "Team Ligma",
+            "Daddy's ENGORGED Dictatorship"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "Animal I Have Become",
+        "mmr": 6874.61,
+        "player_teams": [
+            "Dually Truck Hentai Warriors",
+            "Dually Truck Dumpster-Fire",
+            "GRIN Scythe",
+            "Dually Truck Diesel Drinkers"
+        ],
+        "matches": 47,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.47
+    },
+    {
+        "player_name": "milkboxxy",
+        "mmr": 6873.97,
+        "player_teams": [
+            "Bubble Team",
+            "Waist of Golf?",
+            "Jukes Angels",
+            "Plinks of Golf?",
+            "Golf Thirstday?"
+        ],
+        "matches": 80,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.8
+    },
+    {
+        "player_name": "Sultan of Canada",
+        "mmr": 6865.3,
+        "player_teams": [
+            "Golf Monday?",
+            "Rats and Bunnies",
+            "Dota Under the Influence",
+            "Yoinky Sploinky",
+            "Daddy's ENGORGED Dictatorship"
+        ],
+        "matches": 49,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.49
+    },
+    {
+        "player_name": "Princess",
+        "mmr": 6863.85,
+        "player_teams": [
+            "Calamity Crew"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "Younghoe Koo",
+        "mmr": 6834.91,
+        "player_teams": [
+            "GRIN Scythe",
+            "GRIN Fury"
+        ],
+        "matches": 34,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.34
+    },
+    {
+        "player_name": "wrennsday",
+        "mmr": 6834.38,
+        "player_teams": [
+            "Golf Monday?",
+            "Comrades of Golf?",
+            "Golf Wrensday?",
+            "Waist of Golf?",
+            "10toes"
+        ],
+        "matches": 62,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.62
+    },
+    {
+        "player_name": "TINWCD",
+        "mmr": 6820.66,
+        "player_teams": [
+            "Jackson 5"
+        ],
+        "matches": 29,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.29
+    },
+    {
+        "player_name": "Darthwalker",
+        "mmr": 6818.49,
+        "player_teams": [
+            "The Rejects"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 6300,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "Merrill Howard Kalin",
+        "mmr": 6804.0,
+        "player_teams": [
+            "Merrill Howard Kalin Fan Club"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "panda",
+        "mmr": 6798.56,
+        "player_teams": [
+            "SMD9813",
+            "sheeesh"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Raddialin",
+        "mmr": 6778.14,
+        "player_teams": [
+            "Dually Truck Hentai Warriors",
+            "dXo-Champion"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 6700,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Orion",
+        "mmr": 6776.65,
+        "player_teams": [
+            "Average Krill Eaters",
+            "Remove Radiance From The Game",
+            "Rats and Bunnies",
+            "Team Krill Eater"
+        ],
+        "matches": 81,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.81
+    },
+    {
+        "player_name": "Dr. cjj",
+        "mmr": 6762.18,
+        "player_teams": [
+            "Calamity Crew",
+            "I am > I was",
+            "Nameless",
+            "Savage Spirits"
+        ],
+        "matches": 37,
+        "reliable_mmr": false,
+        "stratz_mmr": 6372.222222222223,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "Asmoranomardicadaistinaculdacar",
+        "mmr": 6740.86,
+        "player_teams": [
+            "Rodents and Hares Pest Control",
+            "'Nanner Grippers",
+            "Rats and Bunnies",
+            "Blitz's Feet",
+            "dXo-Rejects",
+            "Dark Horse Vitality",
+            "GRIN Scythe"
+        ],
+        "matches": 89,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.89
+    },
+    {
+        "player_name": "Clarkles",
+        "mmr": 6731.21,
+        "player_teams": [
+            "Average Krill Eaters",
+            "GRIN Rat Society",
+            "Team Krill Eater"
+        ],
+        "matches": 46,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.46
+    },
+    {
+        "player_name": "RangerX01",
+        "mmr": 6721.38,
+        "player_teams": [
+            "Merrill Howard Kalin Fan Club"
+        ],
+        "matches": 41,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.41
+    },
+    {
+        "player_name": "Ghost",
+        "mmr": 6720.17,
+        "player_teams": [
+            "Plinks of Golf?",
+            "Grillin and Chillin"
+        ],
+        "matches": 20,
+        "reliable_mmr": false,
+        "stratz_mmr": 6610.0,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Shoon",
+        "mmr": 6718.46,
+        "player_teams": [
+            "Flex Offenders"
+        ],
+        "matches": 29,
+        "reliable_mmr": false,
+        "stratz_mmr": 6283.333333333333,
+        "rank_confidence": 0.29
+    },
+    {
+        "player_name": "Akro",
+        "mmr": 6712.95,
+        "player_teams": [
+            "GRIN Fury"
+        ],
+        "matches": 64,
+        "reliable_mmr": true,
+        "stratz_mmr": 7400,
+        "rank_confidence": 0.64
+    },
+    {
+        "player_name": "Thunder_MuFiN",
+        "mmr": 6704.2,
+        "player_teams": [
+            "Baja Blasters",
+            "beignet boys",
+            "Grillin and Chillin"
+        ],
+        "matches": 25,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.25
+    },
+    {
+        "player_name": "Cryptic Wisdom",
+        "mmr": 6701.48,
+        "player_teams": [
+            "DinoMight"
+        ],
+        "matches": 20,
+        "reliable_mmr": false,
+        "stratz_mmr": 6337.5,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "CHEESE BREAD",
+        "mmr": 6668.84,
+        "player_teams": [
+            "Veni Vidi Vici",
+            "Savage Sabers"
+        ],
+        "matches": 24,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.24
+    },
+    {
+        "player_name": "Dr. Spike the Dota Dr.",
+        "mmr": 6658.25,
+        "player_teams": [
+            "Honey Beesports",
+            "Pizzadog.JV",
+            "Nameless",
+            "Dumpster Fire",
+            "Idiots",
+            "SpookyScarySkeletons"
+        ],
+        "matches": 63,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.63
+    },
+    {
+        "player_name": "chandler9",
+        "mmr": 6655.26,
+        "player_teams": [
+            "Merrill Howard Kalin Fan Club"
+        ],
+        "matches": 41,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.41
+    },
+    {
+        "player_name": "JBay7",
+        "mmr": 6641.73,
+        "player_teams": [
+            "Rats and Bunnies",
+            "Reverse Smurfs",
+            "j",
+            "e",
+            "Have Mercii Daddy",
+            "LF Danny Playoff Replacement",
+            "Teens Love Huge Clocks"
+        ],
+        "matches": 79,
+        "reliable_mmr": true,
+        "stratz_mmr": 7200,
+        "rank_confidence": 0.79
+    },
+    {
+        "player_name": "MC_Flowerpot",
+        "mmr": 6626.71,
+        "player_teams": [
+            "WAP",
+            "dXo-Warrior",
+            "2FrogsSoftware"
+        ],
+        "matches": 30,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.3
+    },
+    {
+        "player_name": "lowskill",
+        "mmr": 6620.03,
+        "player_teams": [
+            "Daddy's ENGORGED Dictatorship"
+        ],
+        "matches": 62,
+        "reliable_mmr": true,
+        "stratz_mmr": 6300,
+        "rank_confidence": 0.62
+    },
+    {
+        "player_name": "pentjack",
+        "mmr": 6604.42,
+        "player_teams": [
+            "GRIN Scythe"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "GodamN\ue083",
+        "mmr": 6597.15,
+        "player_teams": [
+            "SMD9813"
+        ],
+        "matches": 25,
+        "reliable_mmr": false,
+        "stratz_mmr": 5914.285714285715,
+        "rank_confidence": 0.25
+    },
+    {
+        "player_name": "kerokerocola",
+        "mmr": 6593.94,
+        "player_teams": [
+            "Merrill Howard Kalin Fan Club"
+        ],
+        "matches": 41,
+        "reliable_mmr": false,
+        "stratz_mmr": 5842.857142857143,
+        "rank_confidence": 0.41
+    },
+    {
+        "player_name": "Ponquist",
+        "mmr": 6587.42,
+        "player_teams": [
+            "GRIN Smoke"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "Talamh Soilleir",
+        "mmr": 6582.28,
+        "player_teams": [
+            "Calamity Crew",
+            "Chicken Joe's Reincarnation Cult",
+            "GRIN Scythe",
+            "GRIN Fury",
+            "Golf Thirstday?",
+            "Savage Spirits"
+        ],
+        "matches": 53,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.53
+    },
+    {
+        "player_name": "gnatiaK",
+        "mmr": 6555.33,
+        "player_teams": [
+            "Savage Saints",
+            "e",
+            "j",
+            "Brain Damage",
+            "Have Mercii Daddy",
+            "Calamity Crew",
+            "Teens Love Huge Clocks"
+        ],
+        "matches": 58,
+        "reliable_mmr": false,
+        "stratz_mmr": 5865.0,
+        "rank_confidence": 0.58
+    },
+    {
+        "player_name": "Legend",
+        "mmr": 6542.58,
+        "player_teams": [
+            "GRIN Fury"
+        ],
+        "matches": 61,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.61
+    },
+    {
+        "player_name": "bonkey",
+        "mmr": 6542.54,
+        "player_teams": [
+            "'Nanner Grippers",
+            "Daddy's ENGORGED Dictatorship",
+            "Savage Spirits"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "tannerb0y",
+        "mmr": 6542.04,
+        "player_teams": [
+            "Island in the Sun",
+            "GRIN Fury",
+            "GRIN Prism",
+            "Radiance invoker"
+        ],
+        "matches": 52,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.52
+    },
+    {
+        "player_name": "GrayBush",
+        "mmr": 6541.53,
+        "player_teams": [
+            "PSGS",
+            "Nameless",
+            "Grillin and Chillin",
+            "2FrogsSoftware",
+            "Daddy's ENGORGED Dictatorship",
+            "Calamity Crew",
+            "GRIN Fury"
+        ],
+        "matches": 76,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.76
+    },
+    {
+        "player_name": "LTNessnite",
+        "mmr": 6538.74,
+        "player_teams": [
+            "Rodents and Hares Pest Control",
+            "'Nanner Grippers",
+            "Rats and Bunnies",
+            "Blitz's Feet",
+            "Waist of Golf?",
+            "Daddy's ENGORGED Dictatorship"
+        ],
+        "matches": 104,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "Winkx",
+        "mmr": 6536.57,
+        "player_teams": [
+            "Honey Beesports",
+            "Slugpups",
+            "SlugWolves"
+        ],
+        "matches": 40,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.4
+    },
+    {
+        "player_name": "\u266bHarmony\u266c",
+        "mmr": 6523.95,
+        "player_teams": [
+            "Discovery",
+            "Slugpups",
+            "Slugcats",
+            "Pizzadog.JV",
+            "T12186",
+            "Dumpster Fire",
+            "Idiots",
+            "Elsa's Boiz <3 <3 <3"
+        ],
+        "matches": 31,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.31
+    },
+    {
+        "player_name": "Berry",
+        "mmr": 6510.84,
+        "player_teams": [
+            "Dark Horse Storm"
+        ],
+        "matches": 47,
+        "reliable_mmr": true,
+        "stratz_mmr": 6300,
+        "rank_confidence": 0.47
+    },
+    {
+        "player_name": "ShoeB",
+        "mmr": 6507.54,
+        "player_teams": [
+            "Slow Twitch Muscle Fibers",
+            "Rats and Bunnies",
+            "7dark Thirty",
+            "Rod of a Toast"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 5700,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "Carddog",
+        "mmr": 6501.9,
+        "player_teams": [
+            "Rats and Bunnies"
+        ],
+        "matches": 35,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.35
+    },
+    {
+        "player_name": "ThePurplePanzy",
+        "mmr": 6496.06,
+        "player_teams": [
+            "Dark Horse Storm",
+            "Rodents and Hares Pest Control",
+            "'Nanner Grippers",
+            "Rats and Bunnies",
+            "GRIN Fury"
+        ],
+        "matches": 78,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.78
+    },
+    {
+        "player_name": "CheddarBear",
+        "mmr": 6493.86,
+        "player_teams": [
+            "Rodents and Hares Pest Control",
+            "'Nanner Grippers",
+            "dXo-Challenger",
+            "THE CROWNFALL FISHING CLUB",
+            "Dually Truck Hentai Warriors",
+            "dXo-Rejects",
+            "Calamity Crew"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "TheSuperbSimone",
+        "mmr": 6493.8,
+        "player_teams": [
+            "Rats and Bunnies",
+            "Plinks of Golf?"
+        ],
+        "matches": 30,
+        "reliable_mmr": true,
+        "stratz_mmr": 6300,
+        "rank_confidence": 0.3
+    },
+    {
+        "player_name": "be nice to me pls",
+        "mmr": 6468.15,
+        "player_teams": [
+            "animal enclosure",
+            "The Bathtub Club",
+            "GRIN Rat Society",
+            "dXo-Warrior",
+            "Savage Spirits"
+        ],
+        "matches": 61,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.61
+    },
+    {
+        "player_name": "Jmeli",
+        "mmr": 6468.11,
+        "player_teams": [
+            "sheeesh"
+        ],
+        "matches": 20,
+        "reliable_mmr": false,
+        "stratz_mmr": 6133.333333333333,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Sleepy",
+        "mmr": 6464.65,
+        "player_teams": [
+            "Dark Horse Storm"
+        ],
+        "matches": 26,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.26
+    },
+    {
+        "player_name": "Blanket Man",
+        "mmr": 6457.18,
+        "player_teams": [
+            "Island in the Sun"
+        ],
+        "matches": 46,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.46
+    },
+    {
+        "player_name": "perpetual novice \u263c",
+        "mmr": 6454.36,
+        "player_teams": [
+            "Daddy's ENGORGED Dictatorship",
+            "Rats and Bunnies"
+        ],
+        "matches": 65,
+        "reliable_mmr": true,
+        "stratz_mmr": 5700,
+        "rank_confidence": 0.65
+    },
+    {
+        "player_name": "Island",
+        "mmr": 6452.05,
+        "player_teams": [
+            "Rodents and Hares Pest Control",
+            "GRIN Fury",
+            "PSGS"
+        ],
+        "matches": 77,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.77
+    },
+    {
+        "player_name": "fred0123456789",
+        "mmr": 6446.95,
+        "player_teams": [
+            "Blink Squad",
+            "PRESTIGE WORLDWIDE",
+            "Gucci Coffin",
+            "SMD9813",
+            "Radiance invoker",
+            "Team Ligma",
+            "SlugWolves",
+            "Savage Sabers"
+        ],
+        "matches": 61,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.61
+    },
+    {
+        "player_name": "dyl",
+        "mmr": 6430.11,
+        "player_teams": [
+            "Island in the Sun",
+            "'Nanner Grippers",
+            "Team Ligma"
+        ],
+        "matches": 40,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.4
+    },
+    {
+        "player_name": "Ashley Benson Enthusiast",
+        "mmr": 6428.82,
+        "player_teams": [
+            "Dually Truck Hentai Warriors",
+            "Reverse Smurfs",
+            "Dually Truck Diesel Drinkers"
+        ],
+        "matches": 25,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.25
+    },
+    {
+        "player_name": "Ru Elamo",
+        "mmr": 6416.6,
+        "player_teams": [
+            "e",
+            "j",
+            "Teens Love Huge Clocks"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "PosiTr0n",
+        "mmr": 6387.19,
+        "player_teams": [
+            "Island in the Sun",
+            "Savage Saints",
+            "Pizzadog.JV",
+            "dXo-Rejects",
+            "Dumpster Fire",
+            "Idiots"
+        ],
+        "matches": 68,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.68
+    },
+    {
+        "player_name": "ClockWork",
+        "mmr": 6385.53,
+        "player_teams": [
+            "John Wick's Dog"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 6600,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Mango",
+        "mmr": 6358.93,
+        "player_teams": [
+            "Island in the Sun",
+            "Jackson 5"
+        ],
+        "matches": 49,
+        "reliable_mmr": true,
+        "stratz_mmr": 6300,
+        "rank_confidence": 0.49
+    },
+    {
+        "player_name": "AzureSatan[TTV]",
+        "mmr": 6351.75,
+        "player_teams": [
+            "GRIN Rat Society",
+            "PSGS",
+            "GRIN Fury"
+        ],
+        "matches": 35,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.35
+    },
+    {
+        "player_name": "USCreme",
+        "mmr": 6329.41,
+        "player_teams": [
+            "texts go green",
+            "Reverse Smurfs",
+            "Nameless",
+            "Disciples of Synderen",
+            "Honey Beesports",
+            "j",
+            "Have Mercii Daddy",
+            "e",
+            "Brain Damage",
+            "LF Danny Playoff Replacement",
+            "Repulsive Gaming",
+            "GRIN Smoke"
+        ],
+        "matches": 92,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.92
+    },
+    {
+        "player_name": "mrburrito",
+        "mmr": 6312.14,
+        "player_teams": [
+            "Heroes of Golf?",
+            "'Nanner Grippers",
+            "Golf Monday?",
+            "Daddy's ENGORGED Dictatorship",
+            "Golf Thirstday?"
+        ],
+        "matches": 82,
+        "reliable_mmr": true,
+        "stratz_mmr": 6300,
+        "rank_confidence": 0.82
+    },
+    {
+        "player_name": "\u591c\u7a7a\u4e2d\u6700\u4eae\u7684\u661f",
+        "mmr": 6290.61,
+        "player_teams": [
+            "Wet Bread",
+            "ALL CAPS"
+        ],
+        "matches": 28,
+        "reliable_mmr": true,
+        "stratz_mmr": 6600,
+        "rank_confidence": 0.28
+    },
+    {
+        "player_name": "Tinz",
+        "mmr": 6284.81,
+        "player_teams": [
+            "Dark Horse Storm",
+            "Dark Horse Vitality"
+        ],
+        "matches": 70,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.7
+    },
+    {
+        "player_name": "Sabo",
+        "mmr": 6283.1,
+        "player_teams": [
+            "texts go green",
+            "e",
+            "j",
+            "Have Mercii Daddy",
+            "LF Danny Playoff Replacement"
+        ],
+        "matches": 25,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.25
+    },
+    {
+        "player_name": "lykasumboooty",
+        "mmr": 6252.33,
+        "player_teams": [
+            "Rodents and Hares Pest Control",
+            "Slugpups",
+            "dXo-Challenger",
+            "Blitz's Feet",
+            "Nameless",
+            "THE CROWNFALL FISHING CLUB",
+            "4 NOOBS 1 TROLLBUS"
+        ],
+        "matches": 78,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.78
+    },
+    {
+        "player_name": "Nuwa",
+        "mmr": 6249.05,
+        "player_teams": [
+            "Nameless"
+        ],
+        "matches": 97,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.97
+    },
+    {
+        "player_name": "Bluejay - By Saint Laurent",
+        "mmr": 6231.1,
+        "player_teams": [
+            "j",
+            "Teens Love Huge Clocks",
+            "Blink Squad"
+        ],
+        "matches": 25,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.25
+    },
+    {
+        "player_name": "Schmobama",
+        "mmr": 6224.41,
+        "player_teams": [
+            "Wet Bread",
+            "ALL CAPS"
+        ],
+        "matches": 29,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.29
+    },
+    {
+        "player_name": "What's the Frequency, Kenny?",
+        "mmr": 6223.64,
+        "player_teams": [
+            "SICKR",
+            "Dually Truck Dumpster-Fire",
+            "Dota Under the Influence"
+        ],
+        "matches": 43,
+        "reliable_mmr": false,
+        "stratz_mmr": 6581.818181818182,
+        "rank_confidence": 0.43
+    },
+    {
+        "player_name": "The tism (Patient Zero)",
+        "mmr": 6209.0,
+        "player_teams": [
+            "Bubble Team",
+            "GRIN Rat Society",
+            "Big Farma",
+            "GRIN Smoke"
+        ],
+        "matches": 49,
+        "reliable_mmr": true,
+        "stratz_mmr": 6700,
+        "rank_confidence": 0.49
+    },
+    {
+        "player_name": "GATA",
+        "mmr": 6177.73,
+        "player_teams": [
+            "Pepecopters",
+            "Reverse Smurfs",
+            "Nameless",
+            "Dually Pubstars"
+        ],
+        "matches": 80,
+        "reliable_mmr": true,
+        "stratz_mmr": 7300,
+        "rank_confidence": 0.8
+    },
+    {
+        "player_name": "Chadenator",
+        "mmr": 6170.0,
+        "player_teams": [
+            "Nether Knights",
+            "Tactical Feeding",
+            "THE CROWNFALL FISHING CLUB"
+        ],
+        "matches": 58,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.58
+    },
+    {
+        "player_name": "GodRamen",
+        "mmr": 6170.0,
+        "player_teams": [
+            "Nether Knights",
+            "Tactical Feeding",
+            "THE CROWNFALL FISHING CLUB"
+        ],
+        "matches": 58,
+        "reliable_mmr": true,
+        "stratz_mmr": 7100,
+        "rank_confidence": 0.58
+    },
+    {
+        "player_name": "Old Ramen",
+        "mmr": 6139.0,
+        "player_teams": [
+            "GRIN Smoke"
+        ],
+        "matches": 32,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.32
+    },
+    {
+        "player_name": "SchmoobledeeBread",
+        "mmr": 6132.54,
+        "player_teams": [
+            "Wet Bread",
+            "ALL CAPS"
+        ],
+        "matches": 31,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.31
+    },
+    {
+        "player_name": "Nuudle",
+        "mmr": 6132.24,
+        "player_teams": [
+            "Slugpups",
+            "Honey Beesports",
+            "Tactical Feeding",
+            "SlugWolves",
+            "Savage Sabers"
+        ],
+        "matches": 71,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.71
+    },
+    {
+        "player_name": "Finesse",
+        "mmr": 6130.75,
+        "player_teams": [
+            "Nameless",
+            "Pizzadog Academy"
+        ],
+        "matches": 97,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.97
+    },
+    {
+        "player_name": "Wilsonsticks",
+        "mmr": 6127.89,
+        "player_teams": [
+            "Jukes Angels",
+            "Jackson 5"
+        ],
+        "matches": 29,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.29
+    },
+    {
+        "player_name": "Subtlety",
+        "mmr": 6119.38,
+        "player_teams": [
+            "Nameless"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "oblivionkc",
+        "mmr": 6101.66,
+        "player_teams": [
+            "Dark Horse Storm"
+        ],
+        "matches": 24,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.24
+    },
+    {
+        "player_name": "Ratticus",
+        "mmr": 6093.69,
+        "player_teams": [
+            "GRIN Rat Society",
+            "GRIN Smoke"
+        ],
+        "matches": 51,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.51
+    },
+    {
+        "player_name": "Chunklin",
+        "mmr": 6092.92,
+        "player_teams": [
+            "Zealous Gaming"
+        ],
+        "matches": 36,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.36
+    },
+    {
+        "player_name": "McGroovy",
+        "mmr": 6091.81,
+        "player_teams": [
+            "John Wick's Dog"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Born Again",
+        "mmr": 6083.75,
+        "player_teams": [
+            "Team Samsara"
+        ],
+        "matches": 34,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.34
+    },
+    {
+        "player_name": "Fascist Clock",
+        "mmr": 6083.03,
+        "player_teams": [
+            "GRIN Rat Society"
+        ],
+        "matches": 28,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.28
+    },
+    {
+        "player_name": "4GG",
+        "mmr": 6077.86,
+        "player_teams": [
+            "THE CROWNFALL FISHING CLUB"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "Pengin",
+        "mmr": 6069.89,
+        "player_teams": [
+            "Dark Horse Storm"
+        ],
+        "matches": 59,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.59
+    },
+    {
+        "player_name": "Dizzle",
+        "mmr": 6050.25,
+        "player_teams": [
+            "Dark Horse Storm",
+            "Dark Horse Vitality"
+        ],
+        "matches": 70,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.7
+    },
+    {
+        "player_name": "RuskDaddy",
+        "mmr": 6047.34,
+        "player_teams": [
+            "Slugcats",
+            "Disciples of Synderen"
+        ],
+        "matches": 53,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.53
+    },
+    {
+        "player_name": "Shortbus Enjoyer",
+        "mmr": 6033.38,
+        "player_teams": [
+            "Crime Time"
+        ],
+        "matches": 24,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.24
+    },
+    {
+        "player_name": "Paravane",
+        "mmr": 6031.78,
+        "player_teams": [
+            "Slugpups",
+            "SlugWolves",
+            "Big Dingoz"
+        ],
+        "matches": 44,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.44
+    },
+    {
+        "player_name": "HelloRobotics",
+        "mmr": 6018.42,
+        "player_teams": [
+            "Golf Wrensday?",
+            "'Nanner Grippers",
+            "Kitten's Kadets"
+        ],
+        "matches": 37,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "despair",
+        "mmr": 6012.46,
+        "player_teams": [
+            "SICKR"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "8======D~~~",
+        "mmr": 5995.04,
+        "player_teams": [
+            "Dually Truck Dumpster-Fire",
+            "THE CROWNFALL FISHING CLUB"
+        ],
+        "matches": 29,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.29
+    },
+    {
+        "player_name": "Dan Rather Did Nothing Wrong",
+        "mmr": 5992.14,
+        "player_teams": [
+            "Hobbit Hole",
+            "Hat of Midas"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "JuanSolo",
+        "mmr": 5991.49,
+        "player_teams": [
+            "Savage Sabers"
+        ],
+        "matches": 42,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.42
+    },
+    {
+        "player_name": "Ares \u262f",
+        "mmr": 5978.3,
+        "player_teams": [
+            "Nether Knights",
+            "Slugpups",
+            "Tactical Feeding"
+        ],
+        "matches": 34,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.34
+    },
+    {
+        "player_name": "KL1",
+        "mmr": 5976.09,
+        "player_teams": [
+            "Nether Knights",
+            "ALL CAPS",
+            "Savage Sabers"
+        ],
+        "matches": 51,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.51
+    },
+    {
+        "player_name": "Dububear",
+        "mmr": 5974.26,
+        "player_teams": [
+            "Apex Toe Hunters",
+            "Golf Wrensday?",
+            "Waist of Golf?",
+            "GRIN Scythe",
+            "Daddy's ENGORGED Dictatorship",
+            "Golf Thirstday?"
+        ],
+        "matches": 74,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.74
+    },
+    {
+        "player_name": "Jenkins Enjoyer",
+        "mmr": 5971.95,
+        "player_teams": [
+            "Slugcats",
+            "GRIN Scythe"
+        ],
+        "matches": 65,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.65
+    },
+    {
+        "player_name": "2k",
+        "mmr": 5955.55,
+        "player_teams": [
+            "Big Dingoz"
+        ],
+        "matches": 68,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.68
+    },
+    {
+        "player_name": "red40warrior",
+        "mmr": 5954.22,
+        "player_teams": [
+            "'Nanner Grippers",
+            "Comrades of Golf?",
+            "Dually Truck Hentai Warriors",
+            "Golf Wrensday?",
+            "Golf Tuesday?",
+            "Golf Thirstday?"
+        ],
+        "matches": 74,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.74
+    },
+    {
+        "player_name": "Shrewd-Cleric",
+        "mmr": 5927.87,
+        "player_teams": [
+            "Slugpups",
+            "SlugWolves"
+        ],
+        "matches": 48,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.48
+    },
+    {
+        "player_name": "IITS.\u83dc\u9e1f",
+        "mmr": 5923.34,
+        "player_teams": [
+            "Hobbit Hole",
+            "Island in the Sun",
+            "Slugpups",
+            "dXo-Challenger",
+            "Reverse Smurfs",
+            "Big Dingoz",
+            "GRIN Smoke"
+        ],
+        "matches": 84,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.84
+    },
+    {
+        "player_name": "Chilling",
+        "mmr": 5918.64,
+        "player_teams": [
+            "Big Dingoz"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "dr.dr2492",
+        "mmr": 5915.65,
+        "player_teams": [
+            "SMD9813"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "\u9f8d\u5834\u609f\u9053",
+        "mmr": 5915.35,
+        "player_teams": [
+            "Reverse Smurfs",
+            "Big Dingoz",
+            "Disciples of Synderen",
+            "Savage Sabers"
+        ],
+        "matches": 41,
+        "reliable_mmr": true,
+        "stratz_mmr": 6300,
+        "rank_confidence": 0.41
+    },
+    {
+        "player_name": "Creme",
+        "mmr": 5899.95,
+        "player_teams": [
+            "SICKR",
+            "Slugcats",
+            "Disciples of Synderen",
+            "GRIN Smoke",
+            "Pot of Vainglory"
+        ],
+        "matches": 66,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.66
+    },
+    {
+        "player_name": "Voidhunter",
+        "mmr": 5891.93,
+        "player_teams": [
+            "Big Dingoz"
+        ],
+        "matches": 78,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.78
+    },
+    {
+        "player_name": "roxyroro",
+        "mmr": 5888.26,
+        "player_teams": [
+            "SICKR",
+            "Slugcats"
+        ],
+        "matches": 79,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.79
+    },
+    {
+        "player_name": "Clippy",
+        "mmr": 5871.47,
+        "player_teams": [
+            "Heroes of Golf?",
+            "Golf Tuesday?",
+            "Kitten's Kadets",
+            "Golf Thirstday?",
+            "Batchesters of Golf?"
+        ],
+        "matches": 88,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.88
+    },
+    {
+        "player_name": "Architeuthis",
+        "mmr": 5852.6,
+        "player_teams": [
+            "dXo-Warrior",
+            "Disciples of Synderen"
+        ],
+        "matches": 66,
+        "reliable_mmr": true,
+        "stratz_mmr": 6300,
+        "rank_confidence": 0.66
+    },
+    {
+        "player_name": "Finley",
+        "mmr": 5836.96,
+        "player_teams": [
+            "Hat of Midas",
+            "Big Farma"
+        ],
+        "matches": 40,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.4
+    },
+    {
+        "player_name": "Chimp",
+        "mmr": 5819.23,
+        "player_teams": [
+            "Island in the Sun"
+        ],
+        "matches": 30,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.3
+    },
+    {
+        "player_name": "BillRot",
+        "mmr": 5818.62,
+        "player_teams": [
+            "Tactical Feeding",
+            "Savage Sabers",
+            "repulsive Gaming"
+        ],
+        "matches": 34,
+        "reliable_mmr": true,
+        "stratz_mmr": 6500,
+        "rank_confidence": 0.34
+    },
+    {
+        "player_name": "Clowner",
+        "mmr": 5816.84,
+        "player_teams": [
+            "Derailed Gaming",
+            "Hat of Midas"
+        ],
+        "matches": 33,
+        "reliable_mmr": true,
+        "stratz_mmr": 6300,
+        "rank_confidence": 0.33
+    },
+    {
+        "player_name": "idrinkyourmilkshake",
+        "mmr": 5799.34,
+        "player_teams": [
+            "Disciples of Synderen"
+        ],
+        "matches": 83,
+        "reliable_mmr": true,
+        "stratz_mmr": 6400,
+        "rank_confidence": 0.83
+    },
+    {
+        "player_name": "Perch",
+        "mmr": 5795.45,
+        "player_teams": [
+            "Zealous Gaming"
+        ],
+        "matches": 36,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.36
+    },
+    {
+        "player_name": "GAMbro",
+        "mmr": 5787.82,
+        "player_teams": [
+            "Island in the Sun",
+            "Petting Zoo Daddies"
+        ],
+        "matches": 36,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.36
+    },
+    {
+        "player_name": "Space Cowboy",
+        "mmr": 5784.6,
+        "player_teams": [
+            "dXo-Challenger",
+            "SICKR",
+            "Force Squad",
+            "Big Dingoz",
+            "dXo-Warrior",
+            "GRIN Fury",
+            "Savage Sabers"
+        ],
+        "matches": 49,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.49
+    },
+    {
+        "player_name": "AwRoosTeR",
+        "mmr": 5776.82,
+        "player_teams": [
+            "Hat of Midas",
+            "Big Farma"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "Mangos",
+        "mmr": 5776.7,
+        "player_teams": [
+            "Crime Time"
+        ],
+        "matches": 24,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.24
+    },
+    {
+        "player_name": "dd\u0131\u029es",
+        "mmr": 5759.86,
+        "player_teams": [
+            "Island in the Sun",
+            "Repulsive Gaming",
+            "Savage Sabers",
+            "repulsive Gaming"
+        ],
+        "matches": 54,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.54
+    },
+    {
+        "player_name": "Swag should be free",
+        "mmr": 5751.83,
+        "player_teams": [
+            "Mary Todd Lincoln: Forever Young"
+        ],
+        "matches": 43,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.43
+    },
+    {
+        "player_name": "Lonely Warrior",
+        "mmr": 5741.95,
+        "player_teams": [
+            "Island in the Sun",
+            "Slugpups",
+            "Nameless",
+            "5 Guys 1 Cup",
+            "GRIN Scythe"
+        ],
+        "matches": 64,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.64
+    },
+    {
+        "player_name": "ezu",
+        "mmr": 5741.68,
+        "player_teams": [
+            "Golf Thirstday?",
+            "Apex Toe Hunters"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "Jester",
+        "mmr": 5738.6,
+        "player_teams": [
+            "Mary Todd Lincoln: Forever Young"
+        ],
+        "matches": 56,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.56
+    },
+    {
+        "player_name": "tyler your dad is here",
+        "mmr": 5737.33,
+        "player_teams": [
+            "Mary Todd Lincoln: Forever Young"
+        ],
+        "matches": 41,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.41
+    },
+    {
+        "player_name": "romance anime",
+        "mmr": 5737.17,
+        "player_teams": [
+            "Honey Beesports",
+            "Slugpups"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Ailerath",
+        "mmr": 5726.46,
+        "player_teams": [
+            "Mary Todd Lincoln: Forever Young"
+        ],
+        "matches": 56,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.56
+    },
+    {
+        "player_name": "Pibbles",
+        "mmr": 5716.45,
+        "player_teams": [
+            "Mary Todd Lincoln: Forever Young",
+            "Zealous Gaming"
+        ],
+        "matches": 34,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.34
+    },
+    {
+        "player_name": "WiseKiller, Evan",
+        "mmr": 5704.41,
+        "player_teams": [
+            "Golf Tuesday?",
+            "Disciples of Synderen"
+        ],
+        "matches": 89,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.89
+    },
+    {
+        "player_name": "Stanley",
+        "mmr": 5694.27,
+        "player_teams": [
+            "Comrades of Golf?",
+            "Kitten's Kadets",
+            "Golf Thirstday?",
+            "Batchesters of Golf?"
+        ],
+        "matches": 52,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.52
+    },
+    {
+        "player_name": "Graphix",
+        "mmr": 5681.64,
+        "player_teams": [
+            "Savage Sabers"
+        ],
+        "matches": 90,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.9
+    },
+    {
+        "player_name": "Road to Immortal",
+        "mmr": 5656.04,
+        "player_teams": [
+            "Radiance invoker",
+            "Veni Vidi Vici",
+            "Savage Sabers"
+        ],
+        "matches": 51,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.51
+    },
+    {
+        "player_name": "Apap$icle",
+        "mmr": 5653.57,
+        "player_teams": [
+            "Repulsive Gaming",
+            "repulsive Gaming"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Lucky Day",
+        "mmr": 5648.46,
+        "player_teams": [
+            "Radiance invoker",
+            "GRIN Smoke"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "Megasheepz",
+        "mmr": 5634.93,
+        "player_teams": [
+            "Hat of Midas"
+        ],
+        "matches": 24,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.24
+    },
+    {
+        "player_name": "Cloudz",
+        "mmr": 5628.08,
+        "player_teams": [
+            "Disciples of Synderen"
+        ],
+        "matches": 87,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.87
+    },
+    {
+        "player_name": "GraceJam",
+        "mmr": 5623.28,
+        "player_teams": [
+            "Waist of Golf?",
+            "Kitten's Kadets",
+            "Apex Toe Hunters"
+        ],
+        "matches": 24,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.24
+    },
+    {
+        "player_name": "tinypuddles",
+        "mmr": 5622.47,
+        "player_teams": [
+            "Disciples of Synderen"
+        ],
+        "matches": 77,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.77
+    },
+    {
+        "player_name": "ToAsT",
+        "mmr": 5621.85,
+        "player_teams": [
+            "Nameless",
+            "GRIN Smoke"
+        ],
+        "matches": 31,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.31
+    },
+    {
+        "player_name": "JAB",
+        "mmr": 5609.26,
+        "player_teams": [
+            "Repulsive Gaming",
+            "repulsive Gaming"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "pomato",
+        "mmr": 5594.35,
+        "player_teams": [
+            "Derailed Gaming"
+        ],
+        "matches": 53,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.53
+    },
+    {
+        "player_name": "Prev0st",
+        "mmr": 5582.27,
+        "player_teams": [
+            "John Wick's Dog",
+            "Big Farma"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "illusive",
+        "mmr": 5552.56,
+        "player_teams": [
+            "Honey Beesports",
+            "Dually Truck Dumpster-Fire",
+            "Dually Truck Diesel Drinkers"
+        ],
+        "matches": 29,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.29
+    },
+    {
+        "player_name": "TwoLostSouls",
+        "mmr": 5550.24,
+        "player_teams": [
+            "Asphalt Annihilators",
+            "Dually Truck Dumpster-Fire",
+            "Ancient Assault Squad",
+            "Big Farma"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "n\u00f6",
+        "mmr": 5514.36,
+        "player_teams": [
+            "Dually Truck Gas Gremlins",
+            "Savage Sabers"
+        ],
+        "matches": 65,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.65
+    },
+    {
+        "player_name": "Lower your expectations",
+        "mmr": 5510.56,
+        "player_teams": [
+            "Dark Horse Storm",
+            "Rodents and Hares Pest Control",
+            "Blink Squad",
+            "Asphalt Annihilators",
+            "Brain Damage"
+        ],
+        "matches": 75,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 0.75
+    },
+    {
+        "player_name": "IharaSan",
+        "mmr": 5510.4,
+        "player_teams": [
+            "Soulless",
+            "Radiance invoker",
+            "GRIN Smoke"
+        ],
+        "matches": 79,
+        "reliable_mmr": true,
+        "stratz_mmr": 4700,
+        "rank_confidence": 0.79
+    },
+    {
+        "player_name": "Vitruvius",
+        "mmr": 5509.62,
+        "player_teams": [
+            "Blink Squad",
+            "Slugcats",
+            "5 Guys 1 Cup",
+            "Dually Truck Dumpster-Fire",
+            "Big Dingoz"
+        ],
+        "matches": 81,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.81
+    },
+    {
+        "player_name": "AdmiraL Jiren",
+        "mmr": 5509.56,
+        "player_teams": [
+            "Derailed Gaming"
+        ],
+        "matches": 41,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.41
+    },
+    {
+        "player_name": "Night",
+        "mmr": 5499.67,
+        "player_teams": [
+            "Salt the Earth"
+        ],
+        "matches": 20,
+        "reliable_mmr": false,
+        "stratz_mmr": 5116.666666666667,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Tyro",
+        "mmr": 5478.27,
+        "player_teams": [
+            "LoveLess",
+            "Nameless"
+        ],
+        "matches": 30,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.3
+    },
+    {
+        "player_name": "Havok",
+        "mmr": 5476.08,
+        "player_teams": [
+            "5 Guys 1 Cup"
+        ],
+        "matches": 35,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.35
+    },
+    {
+        "player_name": "HamCity",
+        "mmr": 5456.06,
+        "player_teams": [
+            "GRIN Smoke"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Flameice",
+        "mmr": 5450.59,
+        "player_teams": [
+            "Derailed Gaming"
+        ],
+        "matches": 53,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.53
+    },
+    {
+        "player_name": "AchillesLast",
+        "mmr": 5438.45,
+        "player_teams": [
+            "Dually Truck Chicken Cartel",
+            "Big Dingoz"
+        ],
+        "matches": 84,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.84
+    },
+    {
+        "player_name": "Bug Collector",
+        "mmr": 5433.33,
+        "player_teams": [
+            "Big Farma"
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "B-Town",
+        "mmr": 5427.76,
+        "player_teams": [
+            "Jackson 5"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "Kickass",
+        "mmr": 5426.88,
+        "player_teams": [
+            "Derailed Gaming"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Crimson",
+        "mmr": 5421.53,
+        "player_teams": [
+            "Hobbit Hole",
+            "Blink Squad",
+            "Dually Pubstars",
+            "Honey Beesports",
+            "Reverse Smurfs",
+            "Dually Truck Diesel Drinkers"
+        ],
+        "matches": 49,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.49
+    },
+    {
+        "player_name": "rag3psych0",
+        "mmr": 5421.11,
+        "player_teams": [
+            "Dually Truck Gas Gremlins",
+            "Savage Sabers"
+        ],
+        "matches": 65,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.65
+    },
+    {
+        "player_name": "TrueLemon",
+        "mmr": 5419.55,
+        "player_teams": [
+            "Team Samsara"
+        ],
+        "matches": 24,
+        "reliable_mmr": false,
+        "stratz_mmr": 5366.666666666667,
+        "rank_confidence": 0.24
+    },
+    {
+        "player_name": "Jacques De Gatineau",
+        "mmr": 5412.55,
+        "player_teams": [
+            "GRIN Scythe",
+            "GRIN Smoke"
+        ],
+        "matches": 36,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.36
+    },
+    {
+        "player_name": "Soseph Jalin",
+        "mmr": 5411.65,
+        "player_teams": [
+            "Reverse Smurfs",
+            "Big Dingoz"
+        ],
+        "matches": 101,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "stormBREAKER",
+        "mmr": 5396.99,
+        "player_teams": [
+            "Petting zoo retards"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "roian",
+        "mmr": 5379.45,
+        "player_teams": [
+            "dXo-Warrior",
+            "Dually Truck Dumpster-Fire",
+            "The Bathtub Club"
+        ],
+        "matches": 67,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.67
+    },
+    {
+        "player_name": "The Spanish Inquisition",
+        "mmr": 5375.16,
+        "player_teams": [
+            "5 Guys 1 Cup"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "Toms Bad at Games",
+        "mmr": 5366.07,
+        "player_teams": [
+            "Petting Zoo Daddies",
+            "Petting zoo retards"
+        ],
+        "matches": 34,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.34
+    },
+    {
+        "player_name": "ididid",
+        "mmr": 5360.48,
+        "player_teams": [
+            "Petting zoo retards"
+        ],
+        "matches": 46,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.46
+    },
+    {
+        "player_name": "Sandman",
+        "mmr": 5304.77,
+        "player_teams": [
+            "Pizzadog Academy",
+            "Slugpups",
+            "Disciples of Synderen"
+        ],
+        "matches": 50,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.5
+    },
+    {
+        "player_name": "Leo Das",
+        "mmr": 5277.12,
+        "player_teams": [
+            "Derailed Gaming"
+        ],
+        "matches": 46,
+        "reliable_mmr": true,
+        "stratz_mmr": 4700,
+        "rank_confidence": 0.46
+    },
+    {
+        "player_name": "\u2020LuminousNite\u2020",
+        "mmr": 5272.55,
+        "player_teams": [
+            "4 NOOBS 1 TROLLBUS",
+            "dXo-Challenger",
+            "Epstein's Islanders",
+            "Team BSJ"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "Kinomoto Sakura",
+        "mmr": 5271.47,
+        "player_teams": [
+            "Mary Todd Lincoln: Forever Young"
+        ],
+        "matches": 56,
+        "reliable_mmr": true,
+        "stratz_mmr": 4100,
+        "rank_confidence": 0.56
+    },
+    {
+        "player_name": "WackoSwami",
+        "mmr": 5268.16,
+        "player_teams": [
+            "Pepecopters",
+            "Reverse Smurfs"
+        ],
+        "matches": 86,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.86
+    },
+    {
+        "player_name": "TigOlBittiez",
+        "mmr": 5267.04,
+        "player_teams": [
+            "Pepecopters",
+            "Reverse Smurfs"
+        ],
+        "matches": 82,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.82
+    },
+    {
+        "player_name": "Wills",
+        "mmr": 5264.33,
+        "player_teams": [
+            "Hobbit Hole",
+            "Crime Time",
+            "Island in the Sun",
+            "Blink Squad",
+            "Reverse Smurfs",
+            "Nameless",
+            "Force Squad",
+            "The Bathtub Club",
+            "Dually Truck Chicken Cartel",
+            "Vitamin Beesports",
+            "Grin.Nova"
+        ],
+        "matches": 100,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "THE REAL IS BACK",
+        "mmr": 5260.49,
+        "player_teams": [
+            "Honey Beesports",
+            "Pizzadog Academy"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "WackoDubbz",
+        "mmr": 5247.74,
+        "player_teams": [
+            "Pepecopters",
+            "Reverse Smurfs"
+        ],
+        "matches": 82,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.82
+    },
+    {
+        "player_name": "Rampage",
+        "mmr": 5247.73,
+        "player_teams": [
+            "4 NOOBS 1 TROLLBUS",
+            "Reverse Smurfs"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "rZ | sidez",
+        "mmr": 5236.0,
+        "player_teams": [
+            "Petting zoo retards"
+        ],
+        "matches": 50,
+        "reliable_mmr": true,
+        "stratz_mmr": 5600,
+        "rank_confidence": 0.5
+    },
+    {
+        "player_name": "rauke22",
+        "mmr": 5207.96,
+        "player_teams": [
+            "Slugpups",
+            "Reverse Smurfs",
+            "Dually Truck Gas Gremlins",
+            "dXo-Explorer",
+            "GRIN Smoke"
+        ],
+        "matches": 58,
+        "reliable_mmr": true,
+        "stratz_mmr": 4500,
+        "rank_confidence": 0.58
+    },
+    {
+        "player_name": "Qapla'",
+        "mmr": 5200.56,
+        "player_teams": [
+            "Reverse Smurfs",
+            "dXo-Explorer",
+            "GRIN Fury",
+            "GRIN Prism"
+        ],
+        "matches": 34,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.34
+    },
+    {
+        "player_name": "shiv_cs",
+        "mmr": 5197.76,
+        "player_teams": [
+            "Petting Zoo Daddies",
+            "Reverse Smurfs"
+        ],
+        "matches": 35,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.35
+    },
+    {
+        "player_name": "Arc",
+        "mmr": 5196.44,
+        "player_teams": [
+            "Hobbit Hole",
+            "Dually Truck Gas Gremlins"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "Jdog",
+        "mmr": 5174.08,
+        "player_teams": [
+            "John Wick's Dog"
+        ],
+        "matches": 20,
+        "reliable_mmr": false,
+        "stratz_mmr": 4683.333333333333,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Propaganda",
+        "mmr": 5168.96,
+        "player_teams": [
+            "Hobbit Hole",
+            "Blink Squad",
+            "Soulless",
+            "Porpin My Crank "
+        ],
+        "matches": 46,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.46
+    },
+    {
+        "player_name": "Tim The Enchanter",
+        "mmr": 5168.35,
+        "player_teams": [
+            "Hobbit Hole"
+        ],
+        "matches": 41,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.41
+    },
+    {
+        "player_name": "Red X",
+        "mmr": 5165.88,
+        "player_teams": [
+            "Blink Squad",
+            "Dually Pubstars",
+            "Slugcats",
+            "Disciples of Synderen",
+            "Petting Zoo Daddies",
+            "Dually Truck Dumpster-Fire",
+            "Ancient Assault Squad",
+            "Vitamin Beesports"
+        ],
+        "matches": 87,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 0.87
+    },
+    {
+        "player_name": "PzR | agpat07",
+        "mmr": 5160.98,
+        "player_teams": [
+            "Petting zoo retards"
+        ],
+        "matches": 50,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.5
+    },
+    {
+        "player_name": "Nhaleet",
+        "mmr": 5155.95,
+        "player_teams": [
+            "Asphalt Annihilators",
+            "Dually Truck Dumpster-Fire",
+            "Dually Pubstars"
+        ],
+        "matches": 38,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.38
+    },
+    {
+        "player_name": "rZ | mercy",
+        "mmr": 5150.26,
+        "player_teams": [
+            "Petting Zoo Daddies"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Huey Lewis",
+        "mmr": 5123.83,
+        "player_teams": [
+            "The Mittens"
+        ],
+        "matches": 79,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.79
+    },
+    {
+        "player_name": "Gund@m",
+        "mmr": 5123.12,
+        "player_teams": [
+            "dXo-Explorer"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "SALT.DGr8Cornholio",
+        "mmr": 5119.37,
+        "player_teams": [
+            "The Mittens"
+        ],
+        "matches": 85,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.85
+    },
+    {
+        "player_name": "Little Debbie Xmas Tree Cake",
+        "mmr": 5111.01,
+        "player_teams": [
+            "Grin.Nova",
+            "Good Time Squad",
+            "Blink Squad",
+            "Disinformation Campaign"
+        ],
+        "matches": 82,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.82
+    },
+    {
+        "player_name": "Mr. Fahrenheit",
+        "mmr": 5108.32,
+        "player_teams": [
+            "The Mittens"
+        ],
+        "matches": 92,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.92
+    },
+    {
+        "player_name": "Ali Bot",
+        "mmr": 5107.72,
+        "player_teams": [
+            "Dark Horse Storm",
+            "4 NOOBS 1 TROLLBUS",
+            "Disinformation Campaign"
+        ],
+        "matches": 25,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.25
+    },
+    {
+        "player_name": "WOOD SYRUP",
+        "mmr": 5107.6,
+        "player_teams": [
+            "GENSYS "
+        ],
+        "matches": 23,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.23
+    },
+    {
+        "player_name": "WadeMasterGAME.TTV",
+        "mmr": 5106.1,
+        "player_teams": [
+            "Force Squad",
+            "Dually Truck Chicken Cartel",
+            "Big Dingoz",
+            "Pizzadog Academy",
+            "GRIN Rat Society"
+        ],
+        "matches": 41,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.41
+    },
+    {
+        "player_name": "purplemudkip",
+        "mmr": 5101.54,
+        "player_teams": [
+            "Comrades of Golf?",
+            "Golf Tuesday Reborn?",
+            "Soulless"
+        ],
+        "matches": 45,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.45
+    },
+    {
+        "player_name": "auryce",
+        "mmr": 5100.46,
+        "player_teams": [
+            "The Mittens"
+        ],
+        "matches": 92,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.92
+    },
+    {
+        "player_name": "pac",
+        "mmr": 5088.68,
+        "player_teams": [
+            "Dually Truck Gas Gremlins",
+            "Island in the Sun",
+            "The Mittens"
+        ],
+        "matches": 40,
+        "reliable_mmr": true,
+        "stratz_mmr": 4400,
+        "rank_confidence": 0.4
+    },
+    {
+        "player_name": "Zyle",
+        "mmr": 5084.13,
+        "player_teams": [
+            "Dark Horse Storm",
+            "dXo-Challenger",
+            "Disinformation Campaign",
+            "Reverse Smurfs",
+            "Dually Truck Dumpster-Fire",
+            "Dually Truck Chicken Cartel",
+            "GRIN Scythe"
+        ],
+        "matches": 69,
+        "reliable_mmr": true,
+        "stratz_mmr": 5500,
+        "rank_confidence": 0.69
+    },
+    {
+        "player_name": "Twystedweb",
+        "mmr": 5082.14,
+        "player_teams": [
+            "The Mittens"
+        ],
+        "matches": 89,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 0.89
+    },
+    {
+        "player_name": "KeyserS\u00f6ze",
+        "mmr": 5081.67,
+        "player_teams": [
+            "Hobbit Hole",
+            "Grin.Nova"
+        ],
+        "matches": 100,
+        "reliable_mmr": true,
+        "stratz_mmr": 6200,
+        "rank_confidence": 1.0
+    },
+    {
+        "player_name": "ChickenPollo",
+        "mmr": 5075.7,
+        "player_teams": [
+            "Dually Truck Dumpster-Fire",
+            "Dually Truck Chicken Cartel",
+            "Dually Truck Diesel Drinkers"
+        ],
+        "matches": 57,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.57
+    },
+    {
+        "player_name": "Slavic Donut",
+        "mmr": 5073.55,
+        "player_teams": [
+            "Petting Zoo Daddies",
+            "Petting zoo retards"
+        ],
+        "matches": 49,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.49
+    },
+    {
+        "player_name": "Kitten",
+        "mmr": 5045.03,
+        "player_teams": [
+            "Golf Tuesday Reborn?",
+            "Kitten's Kadets",
+            "Golf Tuesday?",
+            "Batchesters of Golf?"
+        ],
+        "matches": 55,
+        "reliable_mmr": true,
+        "stratz_mmr": 4200,
+        "rank_confidence": 0.55
+    },
+    {
+        "player_name": "Dacite",
+        "mmr": 5042.93,
+        "player_teams": [
+            "The Three Meepo Problem"
+        ],
+        "matches": 29,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.29
+    },
+    {
+        "player_name": "Beef Supreme",
+        "mmr": 5041.0,
+        "player_teams": [
+            "Hobbit Hole"
+        ],
+        "matches": 83,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.83
+    },
+    {
+        "player_name": "JinxHUN",
+        "mmr": 5006.31,
+        "player_teams": [
+            "Disinformation Campaign"
+        ],
+        "matches": 30,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.3
+    },
+    {
+        "player_name": "megamatt",
+        "mmr": 5003.38,
+        "player_teams": [
+            "Hobbit Hole",
+            "Blink Squad"
+        ],
+        "matches": 85,
+        "reliable_mmr": true,
+        "stratz_mmr": 4200,
+        "rank_confidence": 0.85
+    },
+    {
+        "player_name": "Sefat1307",
+        "mmr": 5000.4,
+        "player_teams": [
+            "John Wick's Dog"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 4500,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "The Red Seal",
+        "mmr": 4995.96,
+        "player_teams": [
+            "Hobbit Hole",
+            "Blink Squad"
+        ],
+        "matches": 92,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.92
+    },
+    {
+        "player_name": "4knee",
+        "mmr": 4979.37,
+        "player_teams": [
+            "5 Guys 1 Cup"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 4400,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "the URBAN_Goose",
+        "mmr": 4974.52,
+        "player_teams": [
+            "Golf Tuesday Reborn?",
+            "Golf Tuesday?",
+            "Batchesters of Golf?"
+        ],
+        "matches": 37,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "Biggie",
+        "mmr": 4971.29,
+        "player_teams": [
+            "LoveLess",
+            "The Bathtub Club",
+            "Quasar Dreams",
+            "Grin.Nova",
+            "Soulless",
+            "4 NOOBS 1 TROLLBUS",
+            "GRIN Smoke"
+        ],
+        "matches": 83,
+        "reliable_mmr": true,
+        "stratz_mmr": 5400,
+        "rank_confidence": 0.83
+    },
+    {
+        "player_name": "arc warden with boobs",
+        "mmr": 4947.62,
+        "player_teams": [
+            "Asphalt Annihilators",
+            "Slugcats",
+            "The Mittens",
+            "Dually Pubstars"
+        ],
+        "matches": 47,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.47
+    },
+    {
+        "player_name": "Dr. Donkey Dick, DMD",
+        "mmr": 4941.49,
+        "player_teams": [
+            "Petting Zoo Daddies",
+            "Petting zoo retards"
+        ],
+        "matches": 32,
+        "reliable_mmr": true,
+        "stratz_mmr": 4700,
+        "rank_confidence": 0.32
+    },
+    {
+        "player_name": ".:;..luhhhhhiihhhhh",
+        "mmr": 4940.66,
+        "player_teams": [
+            "Quasar Dreams",
+            "Grin.Nova"
+        ],
+        "matches": 65,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.65
+    },
+    {
+        "player_name": "Tyrannosaurus.Hex",
+        "mmr": 4925.2,
+        "player_teams": [
+            "Asphalt Annihilators",
+            "Dually Pubstars",
+            "Blink Squad",
+            "Killer Beesports"
+        ],
+        "matches": 66,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.66
+    },
+    {
+        "player_name": "Jezzer",
+        "mmr": 4915.09,
+        "player_teams": [
+            "Slugpups",
+            "Reverse Smurfs",
+            "Pizzadog Academy",
+            "Quasar Dreams",
+            "Grin.Nova"
+        ],
+        "matches": 78,
+        "reliable_mmr": true,
+        "stratz_mmr": 4100,
+        "rank_confidence": 0.78
+    },
+    {
+        "player_name": "~Sauce\ud83d\udef3",
+        "mmr": 4913.07,
+        "player_teams": [
+            "Quasar Dreams",
+            "Grin.Nova"
+        ],
+        "matches": 73,
+        "reliable_mmr": true,
+        "stratz_mmr": 4200,
+        "rank_confidence": 0.73
+    },
+    {
+        "player_name": "Old Man",
+        "mmr": 4903.77,
+        "player_teams": [
+            "Hobbit Hole",
+            "Dually Truck Chicken Cartel",
+            "Ancient Assault Squad",
+            "dXo-Explorer",
+            "4 NOOBS 1 TROLLBUS",
+            "Prius PickUps",
+            "Soulless"
+        ],
+        "matches": 72,
+        "reliable_mmr": true,
+        "stratz_mmr": 4600,
+        "rank_confidence": 0.72
+    },
+    {
+        "player_name": "\u272a\ufe0e_DArK AcE \u2122",
+        "mmr": 4901.79,
+        "player_teams": [
+            "Slugpups",
+            "The Mittens",
+            "LF Danny Playoff Replacement",
+            "Pizzadog Academy",
+            "Quasar Dreams",
+            "Grin.Nova",
+            "Soulless"
+        ],
+        "matches": 78,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 0.78
+    },
+    {
+        "player_name": "Plibt",
+        "mmr": 4876.15,
+        "player_teams": [
+            "Asphalt Annihilators",
+            "Dually Truck Diesel Drinkers",
+            "Dually Pubstars"
+        ],
+        "matches": 59,
+        "reliable_mmr": true,
+        "stratz_mmr": 4500,
+        "rank_confidence": 0.59
+    },
+    {
+        "player_name": "G.U.N.D.A.M",
+        "mmr": 4873.75,
+        "player_teams": [
+            "Slugpups",
+            "Dually Truck Chicken Cartel",
+            "dXo-Explorer",
+            "Prius PickUps",
+            "The Three Meepo Problem"
+        ],
+        "matches": 64,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.64
+    },
+    {
+        "player_name": "GayedMaster",
+        "mmr": 4848.79,
+        "player_teams": [
+            "Epstein's Islanders",
+            "Team BSJ",
+            "Disinformation Campaign"
+        ],
+        "matches": 40,
+        "reliable_mmr": true,
+        "stratz_mmr": 5100,
+        "rank_confidence": 0.4
+    },
+    {
+        "player_name": "Syndicate",
+        "mmr": 4847.46,
+        "player_teams": [
+            "GENSYS "
+        ],
+        "matches": 38,
+        "reliable_mmr": true,
+        "stratz_mmr": 5300,
+        "rank_confidence": 0.38
+    },
+    {
+        "player_name": "Rh1no",
+        "mmr": 4840.43,
+        "player_teams": [
+            "I am > I was"
+        ],
+        "matches": 22,
+        "reliable_mmr": false,
+        "stratz_mmr": 4271.428571428572,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "[ORCA] Ceotexas",
+        "mmr": 4765.35,
+        "player_teams": [
+            "5 Guys 1 Cup"
+        ],
+        "matches": 28,
+        "reliable_mmr": true,
+        "stratz_mmr": 4200,
+        "rank_confidence": 0.28
+    },
+    {
+        "player_name": "Dark",
+        "mmr": 4740.8,
+        "player_teams": [
+            "Slugpups",
+            "Good Time Squad",
+            "Blink Squad"
+        ],
+        "matches": 69,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 0.69
+    },
+    {
+        "player_name": "RedFaction",
+        "mmr": 4726.44,
+        "player_teams": [
+            "The Three Meepo Problem"
+        ],
+        "matches": 31,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 0.31
+    },
+    {
+        "player_name": "CHEFRICK",
+        "mmr": 4725.47,
+        "player_teams": [
+            "5 Guys 1 Cup"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 4200,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Backyardsluts9",
+        "mmr": 4718.95,
+        "player_teams": [
+            "Petting Zoo Daddies",
+            "Petting zoo retards"
+        ],
+        "matches": 49,
+        "reliable_mmr": true,
+        "stratz_mmr": 4100,
+        "rank_confidence": 0.49
+    },
+    {
+        "player_name": "Hangende Harry",
+        "mmr": 4710.25,
+        "player_teams": [
+            "Hobbit Hole"
+        ],
+        "matches": 21,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 0.21
+    },
+    {
+        "player_name": "Betabits",
+        "mmr": 4703.64,
+        "player_teams": [
+            "Slugpups",
+            "dXo-Explorer",
+            "Pot of Vainglory"
+        ],
+        "matches": 42,
+        "reliable_mmr": true,
+        "stratz_mmr": 4200,
+        "rank_confidence": 0.42
+    },
+    {
+        "player_name": "FarmAssist[Shadow_Merc]",
+        "mmr": 4699.5,
+        "player_teams": [
+            "Jackson 5"
+        ],
+        "matches": 31,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 0.31
+    },
+    {
+        "player_name": "Ziggy",
+        "mmr": 4696.08,
+        "player_teams": [
+            "Lemon Snow Cones",
+            "The Mittens"
+        ],
+        "matches": 75,
+        "reliable_mmr": true,
+        "stratz_mmr": 6100,
+        "rank_confidence": 0.75
+    },
+    {
+        "player_name": "aTruckgril Beverly \u273f",
+        "mmr": 4690.27,
+        "player_teams": [
+            "ALL CAPS",
+            "The Three Meepo Problem"
+        ],
+        "matches": 33,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 0.33
+    },
+    {
+        "player_name": "normalin",
+        "mmr": 4661.61,
+        "player_teams": [
+            "Prius PickUps",
+            "Slugpups",
+            "dXo-Challenger",
+            "Pot of Vainglory"
+        ],
+        "matches": 72,
+        "reliable_mmr": true,
+        "stratz_mmr": 4500,
+        "rank_confidence": 0.72
+    },
+    {
+        "player_name": "Kulaid",
+        "mmr": 4660.76,
+        "player_teams": [
+            "Hobbit Hole",
+            "Prius PickUps",
+            "Blink Squad"
+        ],
+        "matches": 68,
+        "reliable_mmr": true,
+        "stratz_mmr": 4700,
+        "rank_confidence": 0.68
+    },
+    {
+        "player_name": "Rada",
+        "mmr": 4655.18,
+        "player_teams": [
+            "Pizzadog Academy",
+            "Disinformation Campaign"
+        ],
+        "matches": 37,
+        "reliable_mmr": true,
+        "stratz_mmr": 4600,
+        "rank_confidence": 0.37
+    },
+    {
+        "player_name": "Tavanushi",
+        "mmr": 4646.78,
+        "player_teams": [
+            "Slugpups",
+            "Pizzadog Academy"
+        ],
+        "matches": 33,
+        "reliable_mmr": true,
+        "stratz_mmr": 4200,
+        "rank_confidence": 0.33
+    },
+    {
+        "player_name": "rZ | oXy",
+        "mmr": 4627.67,
+        "player_teams": [
+            "Petting Zoo Daddies",
+            "Petting zoo retards"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 4400,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "Snapped",
+        "mmr": 4619.77,
+        "player_teams": [
+            "Lemon Snow Cones"
+        ],
+        "matches": 77,
+        "reliable_mmr": true,
+        "stratz_mmr": 5000,
+        "rank_confidence": 0.77
+    },
+    {
+        "player_name": "Bad Das",
+        "mmr": 4584.3,
+        "player_teams": [
+            "Derailed Gaming"
+        ],
+        "matches": 28,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 0.28
+    },
+    {
+        "player_name": "VeX",
+        "mmr": 4582.96,
+        "player_teams": [
+            "Teens Love Huge Clocks",
+            "Soulless",
+            "Brain Damage"
+        ],
+        "matches": 22,
+        "reliable_mmr": true,
+        "stratz_mmr": 4100,
+        "rank_confidence": 0.22
+    },
+    {
+        "player_name": "Foxx",
+        "mmr": 4577.54,
+        "player_teams": [
+            "LoveLess",
+            "Nether Knights",
+            "Pizzadog Academy",
+            "Quasar Dreams",
+            "Grin.Nova",
+            "Soulless"
+        ],
+        "matches": 36,
+        "reliable_mmr": true,
+        "stratz_mmr": 4200,
+        "rank_confidence": 0.36
+    },
+    {
+        "player_name": "tar",
+        "mmr": 4553.83,
+        "player_teams": [
+            "Lemon Snow Cones"
+        ],
+        "matches": 79,
+        "reliable_mmr": true,
+        "stratz_mmr": 5200,
+        "rank_confidence": 0.79
+    },
+    {
+        "player_name": "JanKed",
+        "mmr": 4524.92,
+        "player_teams": [
+            "Lemon Snow Cones"
+        ],
+        "matches": 77,
+        "reliable_mmr": true,
+        "stratz_mmr": 4600,
+        "rank_confidence": 0.77
+    },
+    {
+        "player_name": "Noy",
+        "mmr": 4522.36,
+        "player_teams": [
+            "GENSYS "
+        ],
+        "matches": 38,
+        "reliable_mmr": true,
+        "stratz_mmr": 4200,
+        "rank_confidence": 0.38
+    },
+    {
+        "player_name": "DistantEcho",
+        "mmr": 4507.64,
+        "player_teams": [
+            "Lemon Snow Cones",
+            "The Mittens"
+        ],
+        "matches": 73,
+        "reliable_mmr": true,
+        "stratz_mmr": 4500,
+        "rank_confidence": 0.73
+    },
+    {
+        "player_name": "Sailor Godzilla",
+        "mmr": 4501.63,
+        "player_teams": [
+            "Slugpups",
+            "Asphalt Annihilators",
+            "Reverse Smurfs",
+            "Dually Truck Dumpster-Fire",
+            "Dually Truck Chicken Cartel",
+            "Ancient Assault Squad",
+            "Vitamin Beesports",
+            "Killer Beesports"
+        ],
+        "matches": 51,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 0.51
+    },
+    {
+        "player_name": "Ro914",
+        "mmr": 4493.77,
+        "player_teams": [
+            "Nether Knights",
+            "Tactical Feeding",
+            "LoveLess"
+        ],
+        "matches": 34,
+        "reliable_mmr": true,
+        "stratz_mmr": 4100,
+        "rank_confidence": 0.34
+    },
+    {
+        "player_name": "LeBrao Zedong",
+        "mmr": 4455.83,
+        "player_teams": [
+            "Crime Time"
+        ],
+        "matches": 27,
+        "reliable_mmr": true,
+        "stratz_mmr": 3600,
+        "rank_confidence": 0.27
+    },
+    {
+        "player_name": "\u9a7c\u9e7f",
+        "mmr": 4395.75,
+        "player_teams": [
+            "Prius PickUps",
+            "Vitamin Beesports"
+        ],
+        "matches": 34,
+        "reliable_mmr": true,
+        "stratz_mmr": 4300,
+        "rank_confidence": 0.34
+    },
+    {
+        "player_name": "Who Got Smoke",
+        "mmr": 4323.46,
+        "player_teams": [
+            "Quasar Dreams",
+            "Grin.Nova"
+        ],
+        "matches": 26,
+        "reliable_mmr": true,
+        "stratz_mmr": 3500,
+        "rank_confidence": 0.26
+    },
+    {
+        "player_name": "Darkk",
+        "mmr": 4289.94,
+        "player_teams": [
+            "Team Blunder",
+            "Dually Truck Dumpster-Fire",
+            "The Bathtub Club"
+        ],
+        "matches": 49,
+        "reliable_mmr": true,
+        "stratz_mmr": 3600,
+        "rank_confidence": 0.49
+    },
+    {
+        "player_name": "Lams",
+        "mmr": 4239.13,
+        "player_teams": [
+            "LoveLess",
+            "Good Time Squad",
+            "Blink Squad"
+        ],
+        "matches": 20,
+        "reliable_mmr": true,
+        "stratz_mmr": 4200,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "t.tv/SlashBDS",
+        "mmr": 4144.38,
+        "player_teams": [
+            "Asphalt Annihilators",
+            "Quasar Dreams"
+        ],
+        "matches": 32,
+        "reliable_mmr": true,
+        "stratz_mmr": 3500,
+        "rank_confidence": 0.32
+    },
+    {
+        "player_name": "No_Hezi",
+        "mmr": 4006.05,
+        "player_teams": [
+            "GENSYS "
+        ],
+        "matches": 38,
+        "reliable_mmr": false,
+        "stratz_mmr": 3377.777777777778,
+        "rank_confidence": 0.38
+    },
+    {
+        "player_name": "PhantomJellybean",
+        "mmr": 3925.05,
+        "player_teams": [
+            "Golf Wrensday?",
+            "Golf Tuesday Reborn?",
+            "Golf Tuesday?"
+        ],
+        "matches": 39,
+        "reliable_mmr": true,
+        "stratz_mmr": 3500,
+        "rank_confidence": 0.39
+    },
+    {
+        "player_name": "TARS",
+        "mmr": 3828.16,
+        "player_teams": [
+            "Disciples of Synderen"
+        ],
+        "matches": 34,
+        "reliable_mmr": true,
+        "stratz_mmr": 3300,
+        "rank_confidence": 0.34
+    },
+    {
+        "player_name": "jphuffman55",
+        "mmr": 3827.69,
+        "player_teams": [
+            "The Three Meepo Problem"
+        ],
+        "matches": 33,
+        "reliable_mmr": true,
+        "stratz_mmr": 3100,
+        "rank_confidence": 0.33
+    },
+    {
+        "player_name": "ChngGaling!",
+        "mmr": 3801.91,
+        "player_teams": [
+            "GENSYS "
+        ],
+        "matches": 20,
+        "reliable_mmr": false,
+        "stratz_mmr": 3377.777777777778,
+        "rank_confidence": 0.2
+    },
+    {
+        "player_name": "TwelveSeven",
+        "mmr": 3784.54,
+        "player_teams": [
+            "Reverse Smurfs",
+            "Ancient Assault Squad",
+            "Blink Squad",
+            "Dually Pubstars"
+        ],
+        "matches": 46,
+        "reliable_mmr": true,
+        "stratz_mmr": 3400,
+        "rank_confidence": 0.46
+    },
+    {
+        "player_name": "1335 6th Avenue NY",
+        "mmr": 3710.69,
+        "player_teams": [
+            "Pizzadog Academy"
+        ],
+        "matches": 26,
+        "reliable_mmr": true,
+        "stratz_mmr": 3400,
+        "rank_confidence": 0.26
+    },
+    {
+        "player_name": "lost",
+        "mmr": 3631.03,
+        "player_teams": [
+            "Good Time Squad",
+            "Blink Squad",
+            "Force Squad",
+            "Ancient Assault Squad",
+            "Vitamin Beesports"
+        ],
+        "matches": 25,
+        "reliable_mmr": true,
+        "stratz_mmr": 3400,
+        "rank_confidence": 0.25
+    },
+    {
+        "player_name": "1k subhuman",
+        "mmr": 3546.96,
+        "player_teams": [
+            "Good Time Squad",
+            "Blink Squad",
+            "Pizzadog.JV",
+            "Force Squad",
+            "The Bathtub Club",
+            "Vitamin Beesports"
+        ],
+        "matches": 55,
+        "reliable_mmr": true,
+        "stratz_mmr": 3100,
+        "rank_confidence": 0.55
+    },
+    {
+        "player_name": "Don't Bully me, I'll Cum",
+        "mmr": 3211.0,
+        "player_teams": [
+            "LoveLess",
+            "Good Time Squad",
+            "Force Squad"
+        ],
+        "matches": 35,
+        "reliable_mmr": true,
+        "stratz_mmr": 3100,
+        "rank_confidence": 0.35
+    }
+]
