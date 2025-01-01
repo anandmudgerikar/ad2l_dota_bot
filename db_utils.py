@@ -1,7 +1,7 @@
 import requests
 from tabulate import tabulate
 import mysql.connector
-from config import stratz_token
+from config import stratz_token, user, password, host, database, port, connection_timeout
 import json
 import tenacity
 import time
@@ -66,11 +66,11 @@ def query_db(query):
     try:
         # Connect to your MySQL DB
         conn = mysql.connector.connect(
-            user="ad2l_reader",
-            password="kS$^#sWI4!K^fNZt",
-            host="charlie3.cprciz9jzrgp.us-east-1.rds.amazonaws.com",
-            database="ad2l_production",
-            port="3306",
+            user=user,
+            password=password,
+            host=host,
+            database=database,
+            port=port,
             connection_timeout=10  # Set a timeout for the connection
         )
 
