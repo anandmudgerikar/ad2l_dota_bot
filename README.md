@@ -41,6 +41,8 @@ python rankings.py
 
 This will process the data and save the updated player rankings to latest_player_rankings.csv and latest_player_rankings.json.
 
+You can also view the latest AD2L player rankings at [AD2L Rankings](https://anandmudgerikar.github.io/ad2l_webapp/).
+
 ## Future Work
 Enhance the bot's analysis capabilities to provide deeper insights into game strategies.
 Integrate more complex data sources and improve the accuracy of the rankings algorithm.
