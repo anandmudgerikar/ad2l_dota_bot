@@ -244,6 +244,7 @@ if __name__ == "__main__":
         # if player.team_mmr < 6000:
         #create new dictionary for rankings page
         player_ranking = {
+            'pid': player['pid'],
             'player_name': player['player_name'],
             'mmr': player['mmr'],
             'player_teams': player['player_teams'],
