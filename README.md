@@ -15,8 +15,8 @@ To achieve this objective, we employ a crawl -> walk -> run approach:
 The initial phase focuses on ranking players in an amateur league. The main principles followed in the rankings algorithm are:
 
 - **Data Collection**: Gather data from various sources, including JSON and CSV files, containing player statistics and match details.
-- **Player Initialization**: Initialize player data, including MMR (Matchmaking Rating), team affiliations, and match history.
-- **MMR Calculation**: Calculate player MMR based on the highest level of the team they have played for and their performance in matches.
+- **Player Initialization**: Initialize player data, including base MMR (Matchmaking Rating) from stratz.com, team affiliations, and match history.
+- **MMR Calculation**: Calculate player MMR by analyzing all matches played and adjusting player ratings based on match outcomes. [Learn more about MMR calculation](mmr_calculation_algo.md)
 - **Filtering**: Filter out players with less than a specified number of matches to ensure reliability.
 - **Ranking**: Rank players from highest to lowest MMR and calculate their rank confidence based on the number of matches played.
 
