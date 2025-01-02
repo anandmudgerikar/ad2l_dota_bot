@@ -13,7 +13,7 @@ The MMR (Matchmaking Rating) calculation algorithm is designed to rank Dota 2 pl
 ## Steps in the Algorithm
 
 ### 1. Data Loading
-Load all match and player info from the AD2L database and using the stratz API.
+Load all match and player info from the AD2L database and using the stratz API. Note that only official AD2L matches from season 38 onwards are considered.
 
 ### 2. Player Initialization
 Initialize every player with their base MMR from stratz. If a player has no stratz MMR, they are initialized with the average MMR of all teams they have played for. Our confidence in their rank is initialized to negative and they get flagged with "reliable_mmr=False" tag. This is likely due to your profile being private, so please make it public if you want to be ranked properly.
