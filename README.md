@@ -56,3 +56,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Note
 Some of the content in this project is AI-generated, so please review and use it accordingly.
+
+## Acknowledgements
+A big thank you to TSN and IPA for helping out and shoutout to the AD2L community for providing their data :)
+``` 

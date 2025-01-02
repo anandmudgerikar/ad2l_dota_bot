@@ -52,7 +52,4 @@ The Elo rating calculation is performed using the `calculate_elo_rating` functio
 
 ## Note
 Some of the content in this project is AI-generated, so please review and use it carefully.
-
-## Acknowledgements
-A big thank you to TSN and IPA for helping out and shoutout to the AD2L community for providing their data :)
 ``` 
