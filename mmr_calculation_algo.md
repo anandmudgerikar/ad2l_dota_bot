@@ -8,7 +8,7 @@ The MMR (Matchmaking Rating) calculation algorithm is designed to rank Dota 2 pl
 2. How much mmr you win or lose is based on the difference between your team's average mmr and the enemy team's average mmr.
 3. If you havent played enough games, we don't trust you. The more untrustwrorthy players in a match, the less mmr is gained or lost.
 4. But dont worry, once we have confidence in your rank, you can gain a lot of mmr in a single game. In a match with full confidence, you can gain or lose up to 60 mmr in a single game. We admit to having high recent bias as evident by the high ranks of all the current champions.
-5. When the system is first initialized, we use the stratz mmr as the base mmr. As the system grows more confident in your rank, the stratz mmr becomes less and less important. 
+5. When the system is first initialized, we use your highest stratz mmr as the base mmr. This means that if you were immortal 1 at one point, but now you are legend 5, you will be initialized with the immortal 1 mmr. This is not ideal but we dont trust you so we assume you are still at your peak. As we record more games and the system grows more confident in your rank, the stratz mmr becomes less and less important and finally irrelevant. 
 
 ## Steps in the Algorithm
 
@@ -29,8 +29,8 @@ Initialize every player with their base MMR from stratz. If a player has no stra
 
 ### 5. MMR Update
 - Update the MMR for each player based on the match outcome:
-  - For home team players, update MMR if the home team wins.
-  - For away team players, update MMR if the away team wins.
+  - For home team players, update MMR if the home team wins or loses.
+  - For away team players, update MMR if the away team wins or loses.
 
 ### 6. Filtering
 - Filter out players with less than a specified number of matches (default is 20) to ensure reliability.
