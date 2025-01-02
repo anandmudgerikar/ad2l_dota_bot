@@ -25,13 +25,12 @@ Initialize every player with their base MMR from stratz. If a player has no stra
   - Calculate the average MMR for both teams.
 
 ### 4. Match Confidence Calculation
-- Calculate the match confidence based on the number of matches played by all players in the match. This is used to adjust the K value in the Elo rating formula.
+- Calculate the match confidence based on the average confidence value of all players in the match. This is used to adjust the K value in the Elo rating formula.
 
 ### 5. MMR Update
 - Update the MMR for each player based on the match outcome:
   - For home team players, update MMR if the home team wins.
   - For away team players, update MMR if the away team wins.
-  - Increment the match count for each player.
 
 ### 6. Filtering
 - Filter out players with less than a specified number of matches (default is 20) to ensure reliability.
