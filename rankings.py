@@ -9,7 +9,7 @@ from constants import MINMATCHES, MAXK, MAXMATCHES, MINK
 #clean up after figuring out the best K value and other parameters - this is a work in progress
 #try tiered k values based on match avg mmr
 #try different k values for playoffs and regular season
-def calculate_elo_rating(R_A, R_B, S_A, player_game_count=25, match_confidence=1):
+def calculate_elo_rating(R_A, R_B, S_A, player_game_count=25, match_confidence=1, mmr_ratio=1):
     """
     Calculate new Elo rating for a player based on the Elo rating system.
     """
@@ -22,7 +22,7 @@ def calculate_elo_rating(R_A, R_B, S_A, player_game_count=25, match_confidence=1
 
     #calculating K value based on match mmr confidence
     rank_confidence = min(player_game_count/MAXMATCHES,1.0)
-    K = MINK + ((MAXK-MINK)*match_confidence) #*rank_confidence
+    K = MINK + ((MAXK-MINK)*match_confidence*mmr_ratio) #*rank_confidence
     
     print(f"K value: {K}")
 
@@ -195,6 +195,25 @@ def generate_team_rankings_stratz(threshold=20):
             match_confidence = round((sum(all_players_match_counts)/(len(all_players_match_counts)*MINMATCHES)),2)
             print(f"Match Confidence: {match_confidence}")
 
+            #algo 2 (emphasis on your team average mmr)
+            # # Update MMR for each player
+            # #home team players
+            # for pid in ht_players:
+            #     score = home_score if home_score > away_score else 0
+            #     players[pid]['mmr'] = players[pid]['mmr'] + (round(calculate_elo_rating(ht_avg_mmr, at_avg_mmr, score, players[pid]['match_count'], match_confidence),2) - ht_avg_mmr)
+
+            #     #update match count for player
+            #     players[pid]['match_count'] += 1
+
+            # #away team players
+            # for pid in at_players:
+            #     score = away_score if away_score > home_score else 0
+            #     players[pid]['mmr'] = players[pid]['mmr'] + (round(calculate_elo_rating(at_avg_mmr, ht_avg_mmr,score, players[pid]['match_count'],match_confidence),2) - at_avg_mmr)
+
+            #     #update match count for player, cap at 50
+            #     players[pid]['match_count'] += 1
+
+            #algo 1: (emphasis on current player mmr)
             # Update MMR for each player
             #home team players
             for pid in ht_players:
@@ -257,11 +276,11 @@ if __name__ == "__main__":
     
     # Save updated player MMRs to CSV for visualization
     df = pd.DataFrame(player_rankings)
-    df.to_csv('data/latest_player_rankings.csv', index=False, encoding='utf-8')
+    df.to_csv('data/latest_player_rankings_2.csv', index=False, encoding='utf-8')
     #df.to_json('data/latest_player_rankings_kdynamic.csv')
 
     #save df to json
-    with open('data/latest_player_rankings.json', 'w') as file:
+    with open('data/latest_player_rankings_2.json', 'w') as file:
         json.dump(player_rankings, file, indent=4)
 
 

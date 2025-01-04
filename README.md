@@ -12,7 +12,9 @@ To achieve this objective, we employ a crawl -> walk -> run approach:
 - **Run**: Fully develop the bot to offer comprehensive game-winning strategies tailored to individual players.
 
 ## Rankings Algorithm (CRAWL)
-The initial phase focuses on ranking players in an amateur league. The main principles followed in the rankings algorithm are:
+The initial phase focuses on ranking players in an amateur league. This is essential for the development of the bot's core value system, which determines its learning policies and strategies. In other words, the bot uses these rankings to understand exactly how much their advice helped or ditracted from a player in winning or losing a game, and to use that feedback to optimize its advice in the future. In order to ensure the accuracy of the rankings, we are gathering feedback from the community and refining the algorithm accordingly.
+
+The main steps followed in the rankings algorithm are:
 
 - **Data Collection**: Gather data from various sources, including JSON and CSV files, containing player statistics and match details.
 - **Player Initialization**: Initialize player data, including base MMR (Matchmaking Rating) from stratz.com, team affiliations, and match history.
